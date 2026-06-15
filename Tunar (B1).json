@@ -1,0 +1,3707 @@
+[
+  {
+    "de": "abbestellen",
+    "tr": "ləğv etmək",
+    "fav": false
+  },
+  {
+    "de": "Abenteuer (das)",
+    "tr": "macəra",
+    "fav": false
+  },
+  {
+    "de": "Abfall (der)",
+    "tr": "tullantı, qalıq, qırıntı",
+    "fav": false
+  },
+  {
+    "de": "abgeben",
+    "tr": "təslim etmək, vermək",
+    "fav": false
+  },
+  {
+    "de": "abgeheftet",
+    "tr": "bir yerə qoyulmuş, qaldırmış, sənədə salınmış",
+    "fav": false
+  },
+  {
+    "de": "abgelegen",
+    "tr": "uzaq",
+    "fav": false
+  },
+  {
+    "de": "abgesehen davon, dass",
+    "tr": "bu xaric, qalsdı ki...",
+    "fav": false
+  },
+  {
+    "de": "abhängen von Dat",
+    "tr": "asılı olmaq",
+    "fav": false
+  },
+  {
+    "de": "abkaufen, jemandem",
+    "tr": "kiminsə dediyinə inanmaq",
+    "fav": false
+  },
+  {
+    "de": "ablaufen",
+    "tr": "olmaq keçmək, günü dolmaq",
+    "fav": false
+  },
+  {
+    "de": "ablenken",
+    "tr": "diqqətin başqa yönə çevirmək, diqqətin dağıtmaq",
+    "fav": false
+  },
+  {
+    "de": "Abnehmen",
+    "tr": "kilo atmaq, arıqlamaq",
+    "fav": false
+  },
+  {
+    "de": "Abprache (die)",
+    "tr": "anlaşma, sözləşmə, razılaşma",
+    "fav": false
+  },
+  {
+    "de": "Absatz (der)",
+    "tr": "satış",
+    "fav": false
+  },
+  {
+    "de": "Abschaffung (die)",
+    "tr": "ləğv",
+    "fav": false
+  },
+  {
+    "de": "abschicken",
+    "tr": "yollamaq, göndərmək",
+    "fav": false
+  },
+  {
+    "de": "abschließen",
+    "tr": "bitirmək, tamamlamaq, qapatmaq, kilidləmək",
+    "fav": false
+  },
+  {
+    "de": "absetzen",
+    "tr": "satmaq",
+    "fav": false
+  },
+  {
+    "de": "absichern",
+    "tr": "qorumaq, sığortalamaq",
+    "fav": false
+  },
+  {
+    "de": "abwarten",
+    "tr": "sonun gözləmək",
+    "fav": false
+  },
+  {
+    "de": "Abwechslung (die)",
+    "tr": "dəyişim, dəyişiklik",
+    "fav": false
+  },
+  {
+    "de": "Adäquates, etwas",
+    "tr": "uyğun bir şey, eyni, oxşar şey",
+    "fav": false
+  },
+  {
+    "de": "Albtraum (der)",
+    "tr": "kabus, qorxulu yuxu",
+    "fav": false
+  },
+  {
+    "de": "alleinerziehend",
+    "tr": "tənha ana, ya da ata",
+    "fav": false
+  },
+  {
+    "de": "alleinstehend",
+    "tr": "subay, kimsəsiz",
+    "fav": false
+  },
+  {
+    "de": "aller Art",
+    "tr": "hər növ",
+    "fav": false
+  },
+  {
+    "de": "allerdings",
+    "tr": "əslində, bununla bərabər, fəqət",
+    "fav": false
+  },
+  {
+    "de": "allerhärtst",
+    "tr": "ən çətini, hamısından ağır",
+    "fav": false
+  },
+  {
+    "de": "allesamt",
+    "tr": "hamısı birdən",
+    "fav": false
+  },
+  {
+    "de": "allzu langer Zeit, nicht",
+    "tr": "elə də çox zaman, vaxt öncə deyil",
+    "fav": false
+  },
+  {
+    "de": "am Himmel",
+    "tr": "göy üzündə",
+    "fav": false
+  },
+  {
+    "de": "am nächsten stehen",
+    "tr": "daha yaxın olmaq",
+    "fav": false
+  },
+  {
+    "de": "anbeiden Orten",
+    "tr": "hər iki yerdə",
+    "fav": false
+  },
+  {
+    "de": "aneignen sich",
+    "tr": "əldə etmək, qazanmaq, mənimsəmək",
+    "fav": false
+  },
+  {
+    "de": "anfeuern",
+    "tr": "ürəkləndirmək",
+    "fav": false
+  },
+  {
+    "de": "angeben",
+    "tr": "bildirmək",
+    "fav": false
+  },
+  {
+    "de": "angegriffen",
+    "tr": "yorğun, bitmiş",
+    "fav": false
+  },
+  {
+    "de": "angehören + Dat",
+    "tr": "aid, mənsub olmaq",
+    "fav": false
+  },
+  {
+    "de": "angenehm",
+    "tr": "hazır, münasib, xoş, gözəl, razı",
+    "fav": false
+  },
+  {
+    "de": "Angst bekommen",
+    "tr": "qorxmaq, qorxu yaranmaq",
+    "fav": false
+  },
+  {
+    "de": "anhaben",
+    "tr": "geyinmiş olmaq, üzərində olmaq",
+    "fav": false
+  },
+  {
+    "de": "anhalten zu Dat",
+    "tr": "xəbərdarlıq etmək, uyarmaq, tənbeh etmək",
+    "fav": false
+  },
+  {
+    "de": "animieren + zu Dat",
+    "tr": "həvəsləndirmək, təşviq etmək, istək yaratmaq",
+    "fav": false
+  },
+  {
+    "de": "Anleitung (die)",
+    "tr": "təlimat",
+    "fav": false
+  },
+  {
+    "de": "annehmen",
+    "tr": "qəbul etmək, var saymaq, fərz etmək",
+    "fav": false
+  },
+  {
+    "de": "anpacken",
+    "tr": "girişmək, başlamaq, tutmaq, yaxalamaq",
+    "fav": false
+  },
+  {
+    "de": "anscheinend",
+    "tr": "bəlli ki, görünən odur ki",
+    "fav": false
+  },
+  {
+    "de": "ansehen",
+    "tr": "anlamaq, baxmaq, görmək",
+    "fav": false
+  },
+  {
+    "de": "ansehen als Akk",
+    "tr": "kimi görmək, kimi baxmaq",
+    "fav": false
+  },
+  {
+    "de": "ansetzen",
+    "tr": "istifadə etməyə başlamaq, içmək",
+    "fav": false
+  },
+  {
+    "de": "Anspruch (der)",
+    "tr": "tələb, haqq, iddia, istək",
+    "fav": false
+  },
+  {
+    "de": "anstellen",
+    "tr": "açmaq, işlətmək, çalışdırmaq",
+    "fav": false
+  },
+  {
+    "de": "anstrengend",
+    "tr": "yorucu, əziyyətli",
+    "fav": false
+  },
+  {
+    "de": "Anteil haben + an Dat",
+    "tr": "payı olmaq",
+    "fav": false
+  },
+  {
+    "de": "antreffen",
+    "tr": "rastlamaq, qarşılaşmaq",
+    "fav": false
+  },
+  {
+    "de": "Anzahl (die)",
+    "tr": "say, miqdar",
+    "fav": false
+  },
+  {
+    "de": "Anzug (der)",
+    "tr": "köç, daşınma",
+    "fav": false
+  },
+  {
+    "de": "Appell (der) + an Akk",
+    "tr": "səsləmə, çağırış, maraq çəkmə, çəkicilik",
+    "fav": false
+  },
+  {
+    "de": "Applaus (der)",
+    "tr": "alqış",
+    "fav": false
+  },
+  {
+    "de": "Arbeitszeugnis (das)",
+    "tr": "iş yerindən arayış",
+    "fav": false
+  },
+  {
+    "de": "Armut (die)",
+    "tr": "yoxsulluq",
+    "fav": false
+  },
+  {
+    "de": "atmen",
+    "tr": "nəfəs almaq",
+    "fav": false
+  },
+  {
+    "de": "aud diese Weise",
+    "tr": "bu yolla, bu üsulla, bu tərzdə",
+    "fav": false
+  },
+  {
+    "de": "auf einmal",
+    "tr": "birdən-birə",
+    "fav": false
+  },
+  {
+    "de": "auf Stand-by lassen",
+    "tr": "gözləmədə buraxmaq, qoymaq",
+    "fav": false
+  },
+  {
+    "de": "aufbrechen",
+    "tr": "yola düzəlmək, açılmaq",
+    "fav": false
+  },
+  {
+    "de": "aufgeweckt",
+    "tr": "oyanır, gözü açıq",
+    "fav": false
+  },
+  {
+    "de": "aufgreifen",
+    "tr": "mənimsəmək, yaxalamaq, üzərinə almaq",
+    "fav": false
+  },
+  {
+    "de": "Aufklärung (die)",
+    "tr": "açıqlama",
+    "fav": false
+  },
+  {
+    "de": "Auflistung (die)",
+    "tr": "siyahı",
+    "fav": false
+  },
+  {
+    "de": "aufpassen",
+    "tr": "diqqət etmək, fikir vermək",
+    "fav": false
+  },
+  {
+    "de": "aufpeppen",
+    "tr": "yeniləmək, artırmaq, canlandırmaq",
+    "fav": false
+  },
+  {
+    "de": "aufreissen",
+    "tr": "yaranmaq, söküb almaq, qoparmaq",
+    "fav": false
+  },
+  {
+    "de": "aufschreiben",
+    "tr": "qeyd etmək, not almaq",
+    "fav": false
+  },
+  {
+    "de": "Aufschwung (der)",
+    "tr": "yüksəliş, artım",
+    "fav": false
+  },
+  {
+    "de": "aufteilen",
+    "tr": "bölüşdürmək, bölmək, parçalamaq",
+    "fav": false
+  },
+  {
+    "de": "Auftreten (das)",
+    "tr": "çıxış",
+    "fav": false
+  },
+  {
+    "de": "Auftritt",
+    "tr": "çıxış",
+    "fav": false
+  },
+  {
+    "de": "Auftritt haben",
+    "tr": "təqdim etmək",
+    "fav": false
+  },
+  {
+    "de": "aufwachsen",
+    "tr": "böyümək, yetişmək",
+    "fav": false
+  },
+  {
+    "de": "ausbilden sich",
+    "tr": "yetişdirmək, böyütmək, əmələ gətirmək",
+    "fav": false
+  },
+  {
+    "de": "Ausdauer (die)",
+    "tr": "səbr, dayanma gücü",
+    "fav": false
+  },
+  {
+    "de": "ausdrücken",
+    "tr": "ifadə etmək",
+    "fav": false
+  },
+  {
+    "de": "ausgedehnt",
+    "tr": "uzun, geniş, böyük",
+    "fav": false
+  },
+  {
+    "de": "ausgehen",
+    "tr": "çölə, bayıra çıxmaq, bitmək, qurtarmaq",
+    "fav": false
+  },
+  {
+    "de": "ausgehen davon",
+    "tr": "fərz etmək, saymaq",
+    "fav": false
+  },
+  {
+    "de": "auslösen",
+    "tr": "səbəb olmaq, doğurmaq",
+    "fav": false
+  },
+  {
+    "de": "ausnutzen",
+    "tr": "yararlanmaq, faydalanmaq",
+    "fav": false
+  },
+  {
+    "de": "ausscheiden",
+    "tr": "çəkilmək, ayrılmaq",
+    "fav": false
+  },
+  {
+    "de": "aussehen",
+    "tr": "görünmək",
+    "fav": false
+  },
+  {
+    "de": "ausstatten",
+    "tr": "döşəmək, düzəltmək, düzənləmək",
+    "fav": false
+  },
+  {
+    "de": "Ausstellung (die)",
+    "tr": "sərgi",
+    "fav": false
+  },
+  {
+    "de": "aussterben",
+    "tr": "ortadan qalxmaq, nəsli, soyu tükənmək",
+    "fav": false
+  },
+  {
+    "de": "Auswahl an Dat (die)",
+    "tr": "çeşid",
+    "fav": false
+  },
+  {
+    "de": "Auswahl treffen (eine)",
+    "tr": "seçim etmək",
+    "fav": false
+  },
+  {
+    "de": "auswendig lernen",
+    "tr": "əzbərləmək, əzbər öyrənmək",
+    "fav": false
+  },
+  {
+    "de": "Auszeichnung (die)",
+    "tr": "təltif, mükafat",
+    "fav": false
+  },
+  {
+    "de": "Backgammon",
+    "tr": "nərd",
+    "fav": false
+  },
+  {
+    "de": "Bauer (der)",
+    "tr": "kəndli",
+    "fav": false
+  },
+  {
+    "de": "Bauwerk (das)",
+    "tr": "bina",
+    "fav": false
+  },
+  {
+    "de": "beachten",
+    "tr": "maraqlanmaq, diqqət etmək",
+    "fav": false
+  },
+  {
+    "de": "bearbeiten",
+    "tr": "işləmək, üzərində çalışmaq",
+    "fav": false
+  },
+  {
+    "de": "bebei haben",
+    "tr": "yanında olmaq",
+    "fav": false
+  },
+  {
+    "de": "befragen",
+    "tr": "soruşdurmaq, sorğuya çəkmək",
+    "fav": false
+  },
+  {
+    "de": "begabt",
+    "tr": "istedadlı",
+    "fav": false
+  },
+  {
+    "de": "begeistern + für Akk",
+    "tr": "maraqlanmaq, həyəcanlanmaq, coşmaq",
+    "fav": false
+  },
+  {
+    "de": "begeistert",
+    "tr": "həvəsli, coşqulu, istəkli, coşqun, şövqlə",
+    "fav": false
+  },
+  {
+    "de": "begleiten",
+    "tr": "müşahidə etmək, yoldaşlıq etmək",
+    "fav": false
+  },
+  {
+    "de": "begrenzter Vorrat",
+    "tr": "məhdud sayda mal",
+    "fav": false
+  },
+  {
+    "de": "behandeln",
+    "tr": "müalicə etmək, davranmaq",
+    "fav": false
+  },
+  {
+    "de": "beharrlich",
+    "tr": "davamlı, israrlı, inadla",
+    "fav": false
+  },
+  {
+    "de": "behindert",
+    "tr": "şikəst, fiziki qüsurlu",
+    "fav": false
+  },
+  {
+    "de": "Beitrag (der)",
+    "tr": "ödəniş",
+    "fav": false
+  },
+  {
+    "de": "bekannt sein durch Akk",
+    "tr": "nə ilə tanınmaq",
+    "fav": false
+  },
+  {
+    "de": "bekannt sein für Akk",
+    "tr": "tanınmaq, populyar olmaq",
+    "fav": false
+  },
+  {
+    "de": "Bekanntschaft machen",
+    "tr": "tanış olmaq",
+    "fav": false
+  },
+  {
+    "de": "beklagen + über Akk, sich",
+    "tr": "şikayət etmək",
+    "fav": false
+  },
+  {
+    "de": "beladen",
+    "tr": "yükləmək",
+    "fav": false
+  },
+  {
+    "de": "Belange (die)",
+    "tr": "maraq, mənfəət, çıxar",
+    "fav": false
+  },
+  {
+    "de": "beliebt",
+    "tr": "sevilən, populyar",
+    "fav": false
+  },
+  {
+    "de": "beliefern",
+    "tr": "göndərmək, təslim etmək",
+    "fav": false
+  },
+  {
+    "de": "Belohnung (die)",
+    "tr": "ödül, mükafat",
+    "fav": false
+  },
+  {
+    "de": "Beratung (die)",
+    "tr": "tövsiyyə",
+    "fav": false
+  },
+  {
+    "de": "Berechnung (die)",
+    "tr": "hesab, təxmin, hesablanma",
+    "fav": false
+  },
+  {
+    "de": "berechtigen",
+    "tr": "haqlı, ədalətli",
+    "fav": false
+  },
+  {
+    "de": "bereits",
+    "tr": "artıq",
+    "fav": false
+  },
+  {
+    "de": "bereuen",
+    "tr": "peşman olmaq",
+    "fav": false
+  },
+  {
+    "de": "berichten",
+    "tr": "xəbər vermək, anlatmaq",
+    "fav": false
+  },
+  {
+    "de": "bescheiden",
+    "tr": "qismən",
+    "fav": false
+  },
+  {
+    "de": "beschließen",
+    "tr": "qərar vermək, son vermək",
+    "fav": false
+  },
+  {
+    "de": "beschreiben als",
+    "tr": "təsvir etmək",
+    "fav": false
+  },
+  {
+    "de": "Besitz (der)",
+    "tr": "mülkiyyət, sahiblik",
+    "fav": false
+  },
+  {
+    "de": "besorgen",
+    "tr": "təmin etmək, tədarük etmək",
+    "fav": false
+  },
+  {
+    "de": "bestehen",
+    "tr": "keçmək (imtahandan)",
+    "fav": false
+  },
+  {
+    "de": "bestehen in Dat",
+    "tr": "bağlı olmaq",
+    "fav": false
+  },
+  {
+    "de": "bestimmen",
+    "tr": "təyin etmək, təsbit etmək, qərarlaşdırmaq",
+    "fav": false
+  },
+  {
+    "de": "bestimmt",
+    "tr": "müəyyən, bəlli, mütləq",
+    "fav": false
+  },
+  {
+    "de": "beteiligt sein + an Dat",
+    "tr": "iştirak etmək, payı olmaq",
+    "fav": false
+  },
+  {
+    "de": "betrachten + als",
+    "tr": "baxmaq, olaraq görmək",
+    "fav": false
+  },
+  {
+    "de": "betragen",
+    "tr": "təşkil etmək",
+    "fav": false
+  },
+  {
+    "de": "Betreff (der)",
+    "tr": "özət, mövzu, problem",
+    "fav": false
+  },
+  {
+    "de": "Betrieb (der)",
+    "tr": "firma, müəssisə, idarə",
+    "fav": false
+  },
+  {
+    "de": "betrunken",
+    "tr": "sərxoş, içkili",
+    "fav": false
+  },
+  {
+    "de": "Bewegung (die)",
+    "tr": "hərəkət, idman",
+    "fav": false
+  },
+  {
+    "de": "Beweis (der)",
+    "tr": "sübut, dəlil",
+    "fav": false
+  },
+  {
+    "de": "bewerben",
+    "tr": "müraciət etmək, baş vurmaq",
+    "fav": false
+  },
+  {
+    "de": "Bewerber (der)",
+    "tr": "namizəd",
+    "fav": false
+  },
+  {
+    "de": "bewerten",
+    "tr": "təxmin etmək, dəyər vermək",
+    "fav": false
+  },
+  {
+    "de": "bewundern",
+    "tr": "heyran olmaq",
+    "fav": false
+  },
+  {
+    "de": "Beziehung (die) + zu Dat",
+    "tr": "münasibət",
+    "fav": false
+  },
+  {
+    "de": "biegen, sich runter",
+    "tr": "aşağı əyilmək",
+    "fav": false
+  },
+  {
+    "de": "bilden",
+    "tr": "düzəltmək, düzənləmək",
+    "fav": false
+  },
+  {
+    "de": "bildlich",
+    "tr": "məcazi, simvolik, rəmzi",
+    "fav": false
+  },
+  {
+    "de": "bildschön",
+    "tr": "mələk kimi, huri kimi",
+    "fav": false
+  },
+  {
+    "de": "binden sich",
+    "tr": "bağlanmaq, əlaqə yaratmaq",
+    "fav": false
+  },
+  {
+    "de": "bis dahin",
+    "tr": "daha əvvəl, öncədən, bu zamana qədər",
+    "fav": false
+  },
+  {
+    "de": "bitten + um Akk",
+    "tr": "xahiş etmək",
+    "fav": false
+  },
+  {
+    "de": "Blatt (das)",
+    "tr": "vərəq, yarpaq",
+    "fav": false
+  },
+  {
+    "de": "bleiben locker",
+    "tr": "sakit, soyuqqanlı qalmaq",
+    "fav": false
+  },
+  {
+    "de": "bleich",
+    "tr": "solğun",
+    "fav": false
+  },
+  {
+    "de": "bloß",
+    "tr": "ancaq, yalnız",
+    "fav": false
+  },
+  {
+    "de": "Blut machen (gutes)",
+    "tr": "kefin açmaq",
+    "fav": false
+  },
+  {
+    "de": "blöd",
+    "tr": "axmaq, can sıxıcı",
+    "fav": false
+  },
+  {
+    "de": "blühen",
+    "tr": "açmaq, çiçək açmaq",
+    "fav": false
+  },
+  {
+    "de": "boomen",
+    "tr": "yüksəlmək, partlatmaq",
+    "fav": false
+  },
+  {
+    "de": "Boot (das)",
+    "tr": "qayıq",
+    "fav": false
+  },
+  {
+    "de": "Botschaft (die)",
+    "tr": "mesaj, səfirlik",
+    "fav": false
+  },
+  {
+    "de": "Branche (die)",
+    "tr": "sektor, sahə",
+    "fav": false
+  },
+  {
+    "de": "Bruchteil (der)",
+    "tr": "bölüm, qism",
+    "fav": false
+  },
+  {
+    "de": "Brücke (die)",
+    "tr": "körpü",
+    "fav": false
+  },
+  {
+    "de": "Buchführung (die)",
+    "tr": "mühasibat",
+    "fav": false
+  },
+  {
+    "de": "bunt",
+    "tr": "əlvan, rəngli",
+    "fav": false
+  },
+  {
+    "de": "Burg (die)",
+    "tr": "qəsəbə, şəhər",
+    "fav": false
+  },
+  {
+    "de": "Bühne (die)",
+    "tr": "səhnə",
+    "fav": false
+  },
+  {
+    "de": "Bühnenbild (das)",
+    "tr": "dekor",
+    "fav": false
+  },
+  {
+    "de": "dabeihaben",
+    "tr": "yanında olmaq",
+    "fav": false
+  },
+  {
+    "de": "Dach (das)",
+    "tr": "dam, çatı",
+    "fav": false
+  },
+  {
+    "de": "dafür sein",
+    "tr": "lehinə olmaq",
+    "fav": false
+  },
+  {
+    "de": "dank + Gen",
+    "tr": "sayəsində",
+    "fav": false
+  },
+  {
+    "de": "dankbar sein",
+    "tr": "minnatdar olmaq",
+    "fav": false
+  },
+  {
+    "de": "Darauf kommt’s an",
+    "tr": "bundan asılıdır",
+    "fav": false
+  },
+  {
+    "de": "darstellen",
+    "tr": "canlandırmaq, göstərmək",
+    "fav": false
+  },
+  {
+    "de": "darüber hinaus",
+    "tr": "ayrıca, bundan başqa",
+    "fav": false
+  },
+  {
+    "de": "Datei (die)",
+    "tr": "sənəd",
+    "fav": false
+  },
+  {
+    "de": "Dauerlob (das)",
+    "tr": "daimi tərif",
+    "fav": false
+  },
+  {
+    "de": "Decke (die)",
+    "tr": "örtük, yorğan",
+    "fav": false
+  },
+  {
+    "de": "dem Zufall überlassen",
+    "tr": "təsadüfə buraxmaq",
+    "fav": false
+  },
+  {
+    "de": "dennoch",
+    "tr": "yenə də, buna rəğmən, buna qarşı",
+    "fav": false
+  },
+  {
+    "de": "derzeitig",
+    "tr": "indiki, hal-hazırki, gerçək, o zamankı",
+    "fav": false
+  },
+  {
+    "de": "deswegen",
+    "tr": "buna görə",
+    "fav": false
+  },
+  {
+    "de": "Dicke Freunde",
+    "tr": "canciyər dostlar",
+    "fav": false
+  },
+  {
+    "de": "dienen als",
+    "tr": "xidmət etmək",
+    "fav": false
+  },
+  {
+    "de": "Dienste (die)",
+    "tr": "xidmət, servis",
+    "fav": false
+  },
+  {
+    "de": "Direktflug (der)",
+    "tr": "birbaşa uçuş",
+    "fav": false
+  },
+  {
+    "de": "doppelt",
+    "tr": "ikiqat",
+    "fav": false
+  },
+  {
+    "de": "Dorf (das)",
+    "tr": "kənd",
+    "fav": false
+  },
+  {
+    "de": "Drachen (der)",
+    "tr": "çərpələng",
+    "fav": false
+  },
+  {
+    "de": "dran sein",
+    "tr": "sırada olmaq, növbəsi olmaq",
+    "fav": false
+  },
+  {
+    "de": "Dreck (der)",
+    "tr": "kir, çirk",
+    "fav": false
+  },
+  {
+    "de": "dringen durch Akk",
+    "tr": "nüfuz etmək",
+    "fav": false
+  },
+  {
+    "de": "dringend",
+    "tr": "təcili, məcburi",
+    "fav": false
+  },
+  {
+    "de": "Druck (der)",
+    "tr": "təzyiq, basğı",
+    "fav": false
+  },
+  {
+    "de": "drängen",
+    "tr": "basqı etmək, sıxışdırmaq",
+    "fav": false
+  },
+  {
+    "de": "drücken auf Akk",
+    "tr": "basmaq",
+    "fav": false
+  },
+  {
+    "de": "Duchschnitt (im)",
+    "tr": "ortalama olaraq",
+    "fav": false
+  },
+  {
+    "de": "dumm",
+    "tr": "axmaq",
+    "fav": false
+  },
+  {
+    "de": "durch den Wind sein",
+    "tr": "sinirli, özündə olmamaq",
+    "fav": false
+  },
+  {
+    "de": "durch die Reihen",
+    "tr": "sıralarla cərgələrlə",
+    "fav": false
+  },
+  {
+    "de": "durch etwas müssen",
+    "tr": "bacarmaq, bitirmək",
+    "fav": false
+  },
+  {
+    "de": "Durchblick (der)",
+    "tr": "mənzərə, görünüş",
+    "fav": false
+  },
+  {
+    "de": "Durchblutung (die)",
+    "tr": "qandövranı",
+    "fav": false
+  },
+  {
+    "de": "durcheinander",
+    "tr": "dağınıq, qarmaqarışıq, çaşmış",
+    "fav": false
+  },
+  {
+    "de": "durchführen",
+    "tr": "tətbiq etmək, keçirmək, icra etmək",
+    "fav": false
+  },
+  {
+    "de": "durchsehen (trennbar)",
+    "tr": "gözdən keçirtmək",
+    "fav": false
+  },
+  {
+    "de": "durstig sein",
+    "tr": "susamış",
+    "fav": false
+  },
+  {
+    "de": "dämlich",
+    "tr": "axmaq, inadçı",
+    "fav": false
+  },
+  {
+    "de": "Dürre (die)",
+    "tr": "quraqlıq",
+    "fav": false
+  },
+  {
+    "de": "Ebene (die)",
+    "tr": "səviyyə, sahə",
+    "fav": false
+  },
+  {
+    "de": "ebenfalls",
+    "tr": "eyni zamanda, həm də",
+    "fav": false
+  },
+  {
+    "de": "echt",
+    "tr": "xalis, əsl",
+    "fav": false
+  },
+  {
+    "de": "Echtheit (die)",
+    "tr": "gerçəklik, həqiqət, orijinallıq",
+    "fav": false
+  },
+  {
+    "de": "Ecke (die)",
+    "tr": "küncdə, kənarda (um die Ecke)",
+    "fav": false
+  },
+  {
+    "de": "edel",
+    "tr": "mükəmməl, qiymətli, super, bol, zəngin",
+    "fav": false
+  },
+  {
+    "de": "ehrgeizig",
+    "tr": "əzmli, həvəsli, coşqun",
+    "fav": false
+  },
+  {
+    "de": "ehrlich",
+    "tr": "namuslu, dürüst, səmimi",
+    "fav": false
+  },
+  {
+    "de": "eigentlich",
+    "tr": "əsas, əslində",
+    "fav": false
+  },
+  {
+    "de": "ein Drittel",
+    "tr": "üçdə bir",
+    "fav": false
+  },
+  {
+    "de": "Eindruck (der)",
+    "tr": "təəssürat",
+    "fav": false
+  },
+  {
+    "de": "einfatlen + Dat",
+    "tr": "yada düşmək",
+    "fav": false
+  },
+  {
+    "de": "eingehen",
+    "tr": "gəlmək, daxil olmaq, əlavə etmək",
+    "fav": false
+  },
+  {
+    "de": "einladen + zu Dat",
+    "tr": "çağırmaq, dəvət etmək",
+    "fav": false
+  },
+  {
+    "de": "einprägen, sich",
+    "tr": "əzbərləmək",
+    "fav": false
+  },
+  {
+    "de": "einrichten",
+    "tr": "döşəmək, düzəltmək, düzənləmək",
+    "fav": false
+  },
+  {
+    "de": "einsam",
+    "tr": "tənha",
+    "fav": false
+  },
+  {
+    "de": "Einsamkeit (die)",
+    "tr": "tənhalıq",
+    "fav": false
+  },
+  {
+    "de": "Einsatz (der)",
+    "tr": "əməliyyat, iş",
+    "fav": false
+  },
+  {
+    "de": "einschenken",
+    "tr": "boşaltmaq, tökmək, doldurmaq",
+    "fav": false
+  },
+  {
+    "de": "einstellen auf Akk sich",
+    "tr": "hazırlanmaq, uyğunlaşmaq",
+    "fav": false
+  },
+  {
+    "de": "Einstieg schaffen + in Akk (den)",
+    "tr": "atılmaq, girişmək",
+    "fav": false
+  },
+  {
+    "de": "einstimmen auf Akk, sich",
+    "tr": "ayaqlaşmaq, uyğunlaşmaq",
+    "fav": false
+  },
+  {
+    "de": "eintreten in Akk",
+    "tr": "daxil olmaq, girmək",
+    "fav": false
+  },
+  {
+    "de": "einwickeln",
+    "tr": "aldatmaq",
+    "fav": false
+  },
+  {
+    "de": "Einzelstück (das)",
+    "tr": "nadir parça",
+    "fav": false
+  },
+  {
+    "de": "ekelig",
+    "tr": "iyrənc",
+    "fav": false
+  },
+  {
+    "de": "Empfehlung (die)",
+    "tr": "tövsiyyə",
+    "fav": false
+  },
+  {
+    "de": "empfinden",
+    "tr": "anlamaq, hiss etmək",
+    "fav": false
+  },
+  {
+    "de": "endlos",
+    "tr": "sonsuz, bitməz",
+    "fav": false
+  },
+  {
+    "de": "Engagement (das)",
+    "tr": "məsuliyyət, iş",
+    "fav": false
+  },
+  {
+    "de": "Enkel (der)",
+    "tr": "nəvə",
+    "fav": false
+  },
+  {
+    "de": "enorm",
+    "tr": "çox böyük",
+    "fav": false
+  },
+  {
+    "de": "entdecken",
+    "tr": "kəşf etmək, tapmaq",
+    "fav": false
+  },
+  {
+    "de": "entfalten",
+    "tr": "açmaq, yaymaq, ortaya çıxartmaq",
+    "fav": false
+  },
+  {
+    "de": "entfernen",
+    "tr": "çıxartmaq, uzaqlaşdırmaq",
+    "fav": false
+  },
+  {
+    "de": "enthalten",
+    "tr": "tərkibində olmaq, içində olmaq",
+    "fav": false
+  },
+  {
+    "de": "entladen",
+    "tr": "boşaltmaq",
+    "fav": false
+  },
+  {
+    "de": "entlasten",
+    "tr": "rahatlatmaq, yardım etmək",
+    "fav": false
+  },
+  {
+    "de": "entscheiden",
+    "tr": "qərar vermək",
+    "fav": false
+  },
+  {
+    "de": "Entscheidung fällen",
+    "tr": "qərar vermək, qərar almaq",
+    "fav": false
+  },
+  {
+    "de": "entsorgen",
+    "tr": "yox etmək, ortadan qaldırmaq",
+    "fav": false
+  },
+  {
+    "de": "entspannen, sich",
+    "tr": "rahatlamaq",
+    "fav": false
+  },
+  {
+    "de": "entsprechen + Dat",
+    "tr": "uyğun olmaq, bənzəmək",
+    "fav": false
+  },
+  {
+    "de": "entstehen",
+    "tr": "meydana gəlmək, qaynaqlanmaq",
+    "fav": false
+  },
+  {
+    "de": "enttäuscht",
+    "tr": "xəyal qırıqlığına uğramış",
+    "fav": false
+  },
+  {
+    "de": "erbauen",
+    "tr": "qurma, inşa etmək",
+    "fav": false
+  },
+  {
+    "de": "Erbe (das)",
+    "tr": "miras",
+    "fav": false
+  },
+  {
+    "de": "erben",
+    "tr": "miras olaraq almaq",
+    "fav": false
+  },
+  {
+    "de": "Erde (die)",
+    "tr": "yer üzü, torpaq, yer",
+    "fav": false
+  },
+  {
+    "de": "Ereignis (das)",
+    "tr": "hadisə, olay",
+    "fav": false
+  },
+  {
+    "de": "erfahren",
+    "tr": "öyrənmək, təcrübə etmək",
+    "fav": false
+  },
+  {
+    "de": "erfolgen",
+    "tr": "olmaq, çıxmaq, ardından gəlmək",
+    "fav": false
+  },
+  {
+    "de": "Erfolglosigkeit (die)",
+    "tr": "uğursuzluq",
+    "fav": false
+  },
+  {
+    "de": "erfolgreich",
+    "tr": "müvəffəqiyyətlə, uğurlu",
+    "fav": false
+  },
+  {
+    "de": "erfrischen",
+    "tr": "sərinlətmək, canlandırmaq",
+    "fav": false
+  },
+  {
+    "de": "erfüllen",
+    "tr": "gerçəkləşmək, yerinə gəlmək",
+    "fav": false
+  },
+  {
+    "de": "erhärten",
+    "tr": "bütünləşdirmək, qətiləşdirmək, sərtləşdirmək",
+    "fav": false
+  },
+  {
+    "de": "erhöhen",
+    "tr": "qalxmaq, artmaq, çoxalmaq",
+    "fav": false
+  },
+  {
+    "de": "erkennen an Dat",
+    "tr": "bir şeydən tanımaq",
+    "fav": false
+  },
+  {
+    "de": "Erkenntnis (die)",
+    "tr": "məlumat, bilgi",
+    "fav": false
+  },
+  {
+    "de": "erkunden",
+    "tr": "soruşub öyrənmək, ortaya çıxartmaq",
+    "fav": false
+  },
+  {
+    "de": "erlauben",
+    "tr": "icazə vermək, içəri buraxmaq, izn vermək (zulassen)",
+    "fav": false
+  },
+  {
+    "de": "erleben",
+    "tr": "yaşamaq, görmək, keçirmək",
+    "fav": false
+  },
+  {
+    "de": "Erlebnis (das)",
+    "tr": "macəra",
+    "fav": false
+  },
+  {
+    "de": "erledigen",
+    "tr": "tamamlamaq, yerinə yetirmək",
+    "fav": false
+  },
+  {
+    "de": "erleichtern",
+    "tr": "asanlaşdırmaq, sadələşdirmək",
+    "fav": false
+  },
+  {
+    "de": "ermordern",
+    "tr": "öldürmək, qətletmək",
+    "fav": false
+  },
+  {
+    "de": "erneuerbar",
+    "tr": "yenilənən, tükənməyən",
+    "fav": false
+  },
+  {
+    "de": "ernst nehmen",
+    "tr": "ciddiyə almaq",
+    "fav": false
+  },
+  {
+    "de": "Ernährung (die)",
+    "tr": "qidalanma",
+    "fav": false
+  },
+  {
+    "de": "Ernüchterung (die)",
+    "tr": "məyusluq",
+    "fav": false
+  },
+  {
+    "de": "erschrecken",
+    "tr": "ürkmək, qorxmaq",
+    "fav": false
+  },
+  {
+    "de": "erschöpft",
+    "tr": "yorğun, bitkin",
+    "fav": false
+  },
+  {
+    "de": "ersetzen + durch Akk",
+    "tr": "yerinə keçmək, dəyişmək, əvəz etmək",
+    "fav": false
+  },
+  {
+    "de": "ersparen sich",
+    "tr": "özünə saxlamaq",
+    "fav": false
+  },
+  {
+    "de": "erst",
+    "tr": "hər şeydən öncə, ilk olaraq",
+    "fav": false
+  },
+  {
+    "de": "erstaunlich",
+    "tr": "inanılmaz, heyrətamiz, maraqlı",
+    "fav": false
+  },
+  {
+    "de": "erstellen",
+    "tr": "hazırlamaq",
+    "fav": false
+  },
+  {
+    "de": "Ertrinken (das)",
+    "tr": "boğulma",
+    "fav": false
+  },
+  {
+    "de": "erwachen",
+    "tr": "oyanmaq",
+    "fav": false
+  },
+  {
+    "de": "erwischen",
+    "tr": "yaxalamaq, tutmaq",
+    "fav": false
+  },
+  {
+    "de": "erwähnen",
+    "tr": "söz etmək, anmaq",
+    "fav": false
+  },
+  {
+    "de": "erwünscht sein",
+    "tr": "xoş, arzu edilən, məqbul",
+    "fav": false
+  },
+  {
+    "de": "erziehen",
+    "tr": "tərbiyə etmək, böyütmək",
+    "fav": false
+  },
+  {
+    "de": "Es stimmt",
+    "tr": "eynən, düzdür, elədir",
+    "fav": false
+  },
+  {
+    "de": "ewig",
+    "tr": "əbədi",
+    "fav": false
+  },
+  {
+    "de": "Existenz (die)",
+    "tr": "dolanışıq, keçim",
+    "fav": false
+  },
+  {
+    "de": "Fachmann (der)",
+    "tr": "mütəxəssis, peşəkar",
+    "fav": false
+  },
+  {
+    "de": "fassen",
+    "tr": "tutmaq, yaxalamaq",
+    "fav": false
+  },
+  {
+    "de": "faszinieren",
+    "tr": "cəzb etmək, heyran etmək",
+    "fav": false
+  },
+  {
+    "de": "Fazit (das)",
+    "tr": "nəticə",
+    "fav": false
+  },
+  {
+    "de": "fehlen + Dat",
+    "tr": "olmamaq, əksik olmaq",
+    "fav": false
+  },
+  {
+    "de": "Fehler (der)",
+    "tr": "səhv, yalnış, xəta",
+    "fav": false
+  },
+  {
+    "de": "fein",
+    "tr": "kübar, həssas, zövqlü və s",
+    "fav": false
+  },
+  {
+    "de": "fertig werden + mit Dat",
+    "tr": "bitirmək, öhdəsindən gəlmək",
+    "fav": false
+  },
+  {
+    "de": "fest etablieren",
+    "tr": "sıx yerləşmək",
+    "fav": false
+  },
+  {
+    "de": "festhalten",
+    "tr": "sözə tutmaq, bərk tutmaq, yaxalamaq",
+    "fav": false
+  },
+  {
+    "de": "feststellen",
+    "tr": "təsbit etmək, bəyan etmək, ortaya çıxartmaq",
+    "fav": false
+  },
+  {
+    "de": "Flatrate (die)",
+    "tr": "sabit qiymət",
+    "fav": false
+  },
+  {
+    "de": "Fleck (der)",
+    "tr": "ləkə",
+    "fav": false
+  },
+  {
+    "de": "Flieger (der)",
+    "tr": "sürət qatarı, pilot",
+    "fav": false
+  },
+  {
+    "de": "Fluggesellschaft (die)",
+    "tr": "hava yolu şirkəti, avia şirkət",
+    "fav": false
+  },
+  {
+    "de": "Fluss (der)",
+    "tr": "çay",
+    "fav": false
+  },
+  {
+    "de": "Folge (die)",
+    "tr": "nəticə, sonuc, sıra",
+    "fav": false
+  },
+  {
+    "de": "Folgejahr (das)",
+    "tr": "sonrakı il",
+    "fav": false
+  },
+  {
+    "de": "folglich",
+    "tr": "buna görə, bundan dolayı, bu üzdən",
+    "fav": false
+  },
+  {
+    "de": "fordern",
+    "tr": "istəmək, tələb etmək",
+    "fav": false
+  },
+  {
+    "de": "fortsetzen",
+    "tr": "davam etmək",
+    "fav": false
+  },
+  {
+    "de": "fressen",
+    "tr": "yemək, tıxmaq",
+    "fav": false
+  },
+  {
+    "de": "Frieden (der)",
+    "tr": "sülh",
+    "fav": false
+  },
+  {
+    "de": "frisieren",
+    "tr": "saçın düzəltmək",
+    "fav": false
+  },
+  {
+    "de": "froh sein + über Akk",
+    "tr": "məmnun olmaq",
+    "fav": false
+  },
+  {
+    "de": "Frustration (die)",
+    "tr": "xəyal qırıqlığı, məyusluq",
+    "fav": false
+  },
+  {
+    "de": "Futter (das)",
+    "tr": "yem",
+    "fav": false
+  },
+  {
+    "de": "Fußboden (der)",
+    "tr": "döşəmə, yer",
+    "fav": false
+  },
+  {
+    "de": "fördern",
+    "tr": "faydalı olmaq, dəstəkləmək",
+    "fav": false
+  },
+  {
+    "de": "Förderung (die)",
+    "tr": "dəstək, yardım",
+    "fav": false
+  },
+  {
+    "de": "führen zu Dat",
+    "tr": "səbəb olmaq, gətirib çıxarmaq",
+    "fav": false
+  },
+  {
+    "de": "Gastgeber (der)",
+    "tr": "ev sahibi",
+    "fav": false
+  },
+  {
+    "de": "gebildet",
+    "tr": "təhsilli, oxumuş",
+    "fav": false
+  },
+  {
+    "de": "Geburt (die)",
+    "tr": "doğum, doğuş",
+    "fav": false
+  },
+  {
+    "de": "Gedanke (der)",
+    "tr": "fikir, düşüncə",
+    "fav": false
+  },
+  {
+    "de": "Gedächtnis (das)",
+    "tr": "yaddaş",
+    "fav": false
+  },
+  {
+    "de": "Gefahr (die)",
+    "tr": "təhlükə",
+    "fav": false
+  },
+  {
+    "de": "gefallen + Dat",
+    "tr": "xoşuna gəlmək",
+    "fav": false
+  },
+  {
+    "de": "gefordert",
+    "tr": "gərəkli, lazımlı, istənən",
+    "fav": false
+  },
+  {
+    "de": "Geheimnis (das)",
+    "tr": "sirr",
+    "fav": false
+  },
+  {
+    "de": "geheimnisvoll",
+    "tr": "gizli, əsrarəngiz, mistik",
+    "fav": false
+  },
+  {
+    "de": "gehen nahe",
+    "tr": "təsir etmək",
+    "fav": false
+  },
+  {
+    "de": "geil",
+    "tr": "əla",
+    "fav": false
+  },
+  {
+    "de": "Geisteshaltung (die)",
+    "tr": "anlayış, düşüncə, zehniyyət",
+    "fav": false
+  },
+  {
+    "de": "geistigen Fähigkeiten (die)",
+    "tr": "zehni, əqli bacarıqlar",
+    "fav": false
+  },
+  {
+    "de": "geistreich",
+    "tr": "ağıllı, zəki",
+    "fav": false
+  },
+  {
+    "de": "gelassen nehmen",
+    "tr": "soyuqqanlı qəbul etmək",
+    "fav": false
+  },
+  {
+    "de": "Gelassenheit (die)",
+    "tr": "sakitlik, soyuqqanlılıq",
+    "fav": false
+  },
+  {
+    "de": "gelten als",
+    "tr": "sayılmaq",
+    "fav": false
+  },
+  {
+    "de": "gemeinsam",
+    "tr": "ortaq, birlikdə",
+    "fav": false
+  },
+  {
+    "de": "Gemeinschaft (die)",
+    "tr": "toplum, cəmiyyət",
+    "fav": false
+  },
+  {
+    "de": "generell",
+    "tr": "təqribi, ümumiyyətlə",
+    "fav": false
+  },
+  {
+    "de": "genervt",
+    "tr": "sıxıntılı, qızğın, sinirli",
+    "fav": false
+  },
+  {
+    "de": "genießen",
+    "tr": "həzz, ləzzət almaq, dadın çıxartmaq",
+    "fav": false
+  },
+  {
+    "de": "geordnet",
+    "tr": "düzənli",
+    "fav": false
+  },
+  {
+    "de": "gepaart mit",
+    "tr": "bağlı, birləşmiş",
+    "fav": false
+  },
+  {
+    "de": "gepflegt",
+    "tr": "yaxşı geyimli, baxımlı, mədəni",
+    "fav": false
+  },
+  {
+    "de": "gerade",
+    "tr": "hələ, tam",
+    "fav": false
+  },
+  {
+    "de": "geraten",
+    "tr": "düşmək, qapılmaq (in Akk)",
+    "fav": false
+  },
+  {
+    "de": "gereizt",
+    "tr": "sinirli, dırdır edən, sözə baxmaz",
+    "fav": false
+  },
+  {
+    "de": "gering",
+    "tr": "az, cüzi, adi",
+    "fav": false
+  },
+  {
+    "de": "geringfügig",
+    "tr": "önəmsiz, kiçik, az",
+    "fav": false
+  },
+  {
+    "de": "Geräusch (das)",
+    "tr": "səs, gurultu",
+    "fav": false
+  },
+  {
+    "de": "Gerücht (das)",
+    "tr": "dedi-qodu",
+    "fav": false
+  },
+  {
+    "de": "geschehen",
+    "tr": "baş vermək",
+    "fav": false
+  },
+  {
+    "de": "gescheit",
+    "tr": "ağıllı, zəki, nəşəli",
+    "fav": false
+  },
+  {
+    "de": "Geschirr (das)",
+    "tr": "qab-qacaq",
+    "fav": false
+  },
+  {
+    "de": "Gesicht (das)",
+    "tr": "üz, sifət, surət, çöhrə",
+    "fav": false
+  },
+  {
+    "de": "Gespräche führen",
+    "tr": "danışıqlar aparmaq",
+    "fav": false
+  },
+  {
+    "de": "Gestalten (das)",
+    "tr": "düzətmə, təşkil etmə",
+    "fav": false
+  },
+  {
+    "de": "gestapelt",
+    "tr": "yığılmış",
+    "fav": false
+  },
+  {
+    "de": "gestehen",
+    "tr": "etiraf etmək",
+    "fav": false
+  },
+  {
+    "de": "gestrickt",
+    "tr": "toxunma, toxunmuş",
+    "fav": false
+  },
+  {
+    "de": "gestrig",
+    "tr": "dünənki",
+    "fav": false
+  },
+  {
+    "de": "gewinnen",
+    "tr": "qazanmaq, udmaq",
+    "fav": false
+  },
+  {
+    "de": "gewiss",
+    "tr": "əmin, məlum, bəlli",
+    "fav": false
+  },
+  {
+    "de": "Gewissen (das)",
+    "tr": "vicdan",
+    "fav": false
+  },
+  {
+    "de": "gewöhnen an Akk, sich",
+    "tr": "alışmaq, vərdiş etmək",
+    "fav": false
+  },
+  {
+    "de": "Gipfel (der)",
+    "tr": "zirvə",
+    "fav": false
+  },
+  {
+    "de": "glanzvoll",
+    "tr": "parlaq, çəkici",
+    "fav": false
+  },
+  {
+    "de": "glatt",
+    "tr": "düz",
+    "fav": false
+  },
+  {
+    "de": "gleich bleiben",
+    "tr": "dəyişməmək, sabit qalmaq",
+    "fav": false
+  },
+  {
+    "de": "Gleichstellung (die)",
+    "tr": "bərabərlik",
+    "fav": false
+  },
+  {
+    "de": "gleichzeitig",
+    "tr": "eyni zamanda",
+    "fav": false
+  },
+  {
+    "de": "Glühbirne (die)",
+    "tr": "lampa",
+    "fav": false
+  },
+  {
+    "de": "Greifen nach Dat",
+    "tr": "əl uzatmaq",
+    "fav": false
+  },
+  {
+    "de": "grenzenlos",
+    "tr": "sonsuz, sərhədsiz",
+    "fav": false
+  },
+  {
+    "de": "griffbereit",
+    "tr": "hazır, əlaltda",
+    "fav": false
+  },
+  {
+    "de": "großartig",
+    "tr": "mükəmməl",
+    "fav": false
+  },
+  {
+    "de": "großzügig",
+    "tr": "comərd",
+    "fav": false
+  },
+  {
+    "de": "Gründer (der)",
+    "tr": "qurucu",
+    "fav": false
+  },
+  {
+    "de": "gucken",
+    "tr": "baxmaq",
+    "fav": false
+  },
+  {
+    "de": "gut aussehend",
+    "tr": "yaraşıqlı",
+    "fav": false
+  },
+  {
+    "de": "gut drauf sein",
+    "tr": "kefi yaxşı olmaq",
+    "fav": false
+  },
+  {
+    "de": "gut gelaunt sein",
+    "tr": "əhvalı yaxşı olmaq",
+    "fav": false
+  },
+  {
+    "de": "guttun + Dat",
+    "tr": "yaratmaq",
+    "fav": false
+  },
+  {
+    "de": "Güter",
+    "tr": "mallar",
+    "fav": false
+  },
+  {
+    "de": "Hafen (der)",
+    "tr": "liman",
+    "fav": false
+  },
+  {
+    "de": "halten",
+    "tr": "düşünmək, zənn etmək",
+    "fav": false
+  },
+  {
+    "de": "handeln",
+    "tr": "hərəkətə keçmək, davranmaq",
+    "fav": false
+  },
+  {
+    "de": "handwerklich",
+    "tr": "əl sənəti, əlişi",
+    "fav": false
+  },
+  {
+    "de": "Haufen (der)",
+    "tr": "yığın, basabas",
+    "fav": false
+  },
+  {
+    "de": "Heft (das)",
+    "tr": "broşür, kitabça, dəftər, buklet",
+    "fav": false
+  },
+  {
+    "de": "heftig",
+    "tr": "şiddətli, sərt",
+    "fav": false
+  },
+  {
+    "de": "heikel",
+    "tr": "çətin, müşkül",
+    "fav": false
+  },
+  {
+    "de": "heilen",
+    "tr": "sağaltmaq",
+    "fav": false
+  },
+  {
+    "de": "Heimweh (das)",
+    "tr": "vətən həsrəti",
+    "fav": false
+  },
+  {
+    "de": "Heirat (die)",
+    "tr": "evlilik",
+    "fav": false
+  },
+  {
+    "de": "Heizung (die)",
+    "tr": "isitmə",
+    "fav": false
+  },
+  {
+    "de": "Held (der)",
+    "tr": "qəhrəman",
+    "fav": false
+  },
+  {
+    "de": "heldenhaft",
+    "tr": "cəsurca, qəhrəmanca",
+    "fav": false
+  },
+  {
+    "de": "herausziehen",
+    "tr": "çıxarmaq",
+    "fav": false
+  },
+  {
+    "de": "Herde (die)",
+    "tr": "sürü",
+    "fav": false
+  },
+  {
+    "de": "Herkunft (die)",
+    "tr": "soy, əsil, qaynaq",
+    "fav": false
+  },
+  {
+    "de": "herlaufen",
+    "tr": "arxasınca düşmək",
+    "fav": false
+  },
+  {
+    "de": "herrenlos",
+    "tr": "sahibsiz",
+    "fav": false
+  },
+  {
+    "de": "herumstehen",
+    "tr": "ayaq altında dolanmaq",
+    "fav": false
+  },
+  {
+    "de": "herzlich",
+    "tr": "səmimi, içdən, candan",
+    "fav": false
+  },
+  {
+    "de": "Heulen (das)",
+    "tr": "ulama, ağlama",
+    "fav": false
+  },
+  {
+    "de": "heutig",
+    "tr": "bugünkü",
+    "fav": false
+  },
+  {
+    "de": "hinaus",
+    "tr": "bayıra, çölə, xaricə",
+    "fav": false
+  },
+  {
+    "de": "hingehen",
+    "tr": "getmək",
+    "fav": false
+  },
+  {
+    "de": "hintereinander",
+    "tr": "arxa-arxaya, ard-arda",
+    "fav": false
+  },
+  {
+    "de": "hinterherlaufen + Dat",
+    "tr": "arxasından qaçmaq",
+    "fav": false
+  },
+  {
+    "de": "hochwertig",
+    "tr": "yüksək keyfiyyətli",
+    "fav": false
+  },
+  {
+    "de": "Hof (der)",
+    "tr": "saray, həyət",
+    "fav": false
+  },
+  {
+    "de": "Hoffnung (die)",
+    "tr": "ümid",
+    "fav": false
+  },
+  {
+    "de": "holen",
+    "tr": "alıb gətirmək, gedib gətirmək",
+    "fav": false
+  },
+  {
+    "de": "Huhn (das)",
+    "tr": "toyuq",
+    "fav": false
+  },
+  {
+    "de": "höflich",
+    "tr": "kübar, sayğılı",
+    "fav": false
+  },
+  {
+    "de": "hüten",
+    "tr": "saxlamaq, nəzarət etmək, qorumaq",
+    "fav": false
+  },
+  {
+    "de": "Hütte (die)",
+    "tr": "viranə, daxma",
+    "fav": false
+  },
+  {
+    "de": "immerhin",
+    "tr": "buna rəğmən, nə də olsa, heç olmazsa",
+    "fav": false
+  },
+  {
+    "de": "Interesse wecken (das)",
+    "tr": "maraq oyatmaq",
+    "fav": false
+  },
+  {
+    "de": "Intoleranz (die)",
+    "tr": "dayanmama, dözməmə, təhəmmül etməmə",
+    "fav": false
+  },
+  {
+    "de": "irgendetwas",
+    "tr": "nəsə",
+    "fav": false
+  },
+  {
+    "de": "irgendwelche",
+    "tr": "hər hansı",
+    "fav": false
+  },
+  {
+    "de": "irrtumlich",
+    "tr": "yanlışlıqla",
+    "fav": false
+  },
+  {
+    "de": "jedoch",
+    "tr": "fəqət, bununla birlikdə, halbuki",
+    "fav": false
+  },
+  {
+    "de": "kaum",
+    "tr": "gücbəla ilə, çətin",
+    "fav": false
+  },
+  {
+    "de": "kein Ende nehmen",
+    "tr": "bitməmək, sonlanmamaq",
+    "fav": false
+  },
+  {
+    "de": "Kette (die)",
+    "tr": "zəncir, şəbəkə",
+    "fav": false
+  },
+  {
+    "de": "Klatsch (der)",
+    "tr": "söhbət, dedi qodu, qeybət",
+    "fav": false
+  },
+  {
+    "de": "klicken",
+    "tr": "basmaq, tıqqıldatmaq",
+    "fav": false
+  },
+  {
+    "de": "Klingel (die)",
+    "tr": "zınqırov, zil",
+    "fav": false
+  },
+  {
+    "de": "knapp",
+    "tr": "az, qısa, güclə",
+    "fav": false
+  },
+  {
+    "de": "Kneipe (die)",
+    "tr": "meyxana",
+    "fav": false
+  },
+  {
+    "de": "Knick (der)",
+    "tr": "maraq, boşluq, çatlaq, bükülmə",
+    "fav": false
+  },
+  {
+    "de": "komischerweise",
+    "tr": "nə qəribədir ki",
+    "fav": false
+  },
+  {
+    "de": "Kopf frei kriegen (den)",
+    "tr": "başın rahatlığın istəmək",
+    "fav": false
+  },
+  {
+    "de": "kostenpflichtig",
+    "tr": "ödənişli, hücrətli",
+    "fav": false
+  },
+  {
+    "de": "Kraft (die)",
+    "tr": "qüvvə, güc",
+    "fav": false
+  },
+  {
+    "de": "Kraft tanken",
+    "tr": "güc almaq, güc yığmaq",
+    "fav": false
+  },
+  {
+    "de": "kratzig",
+    "tr": "tikanlı, iynə kimi",
+    "fav": false
+  },
+  {
+    "de": "Kreißsaal (der)",
+    "tr": "doğum otağı",
+    "fav": false
+  },
+  {
+    "de": "kurz darauf",
+    "tr": "bundan az sonra",
+    "fav": false
+  },
+  {
+    "de": "kämpfen mit + Dativ",
+    "tr": "mübarizə aparmaq",
+    "fav": false
+  },
+  {
+    "de": "Köstlichkeit (die)",
+    "tr": "ləzzət",
+    "fav": false
+  },
+  {
+    "de": "kündigen",
+    "tr": "işdən çıxdığın bildirmək",
+    "fav": false
+  },
+  {
+    "de": "künstlich",
+    "tr": "süni, saxta, yalançı",
+    "fav": false
+  },
+  {
+    "de": "Laden (der)",
+    "tr": "mağaza",
+    "fav": false
+  },
+  {
+    "de": "lagern",
+    "tr": "depo etmək, anbara qoymaq",
+    "fav": false
+  },
+  {
+    "de": "langatmig",
+    "tr": "çox uzun, uzun uzadı",
+    "fav": false
+  },
+  {
+    "de": "laufend",
+    "tr": "daima, davamlı",
+    "fav": false
+  },
+  {
+    "de": "lauschen",
+    "tr": "dinləmək, qulaq vermək",
+    "fav": false
+  },
+  {
+    "de": "Laut (der)",
+    "tr": "səs, səda",
+    "fav": false
+  },
+  {
+    "de": "Lebensgefährte (der)",
+    "tr": "həyat yoldaşı",
+    "fav": false
+  },
+  {
+    "de": "lebhaft",
+    "tr": "canlı, nəşəli",
+    "fav": false
+  },
+  {
+    "de": "lecker",
+    "tr": "dadlı, ləziz",
+    "fav": false
+  },
+  {
+    "de": "lediglich",
+    "tr": "yalnız, sadəcə, ancaq",
+    "fav": false
+  },
+  {
+    "de": "Leistung (die)",
+    "tr": "başarı, müvəffəqiyyət, performans",
+    "fav": false
+  },
+  {
+    "de": "Leitung haben",
+    "tr": "kiməsə nəsə gec çatmaq (key)",
+    "fav": false
+  },
+  {
+    "de": "Leprakranke (der)",
+    "tr": "cüzzamlı xəstə",
+    "fav": false
+  },
+  {
+    "de": "lesenswert",
+    "tr": "oxumağa dəyər, oxunmalı",
+    "fav": false
+  },
+  {
+    "de": "Lesestoff (der)",
+    "tr": "oxu materialı",
+    "fav": false
+  },
+  {
+    "de": "leuchten",
+    "tr": "ışıldamaq, işıq saçmaq",
+    "fav": false
+  },
+  {
+    "de": "liefern",
+    "tr": "təslim etmək, çatdırmaq",
+    "fav": false
+  },
+  {
+    "de": "Lieferung (die)",
+    "tr": "təslim, tədarük, çatdırılma",
+    "fav": false
+  },
+  {
+    "de": "loyal",
+    "tr": "sadiq, bağlı",
+    "fav": false
+  },
+  {
+    "de": "lästig",
+    "tr": "sıxıcı, bezgin",
+    "fav": false
+  },
+  {
+    "de": "lückenlos",
+    "tr": "əksiksiz, tam, qüsursuz",
+    "fav": false
+  },
+  {
+    "de": "Macht (die)",
+    "tr": "güc, qüdrət, iqtidar",
+    "fav": false
+  },
+  {
+    "de": "magisch",
+    "tr": "möcüzəli, sehrli",
+    "fav": false
+  },
+  {
+    "de": "Mangel (der)",
+    "tr": "əksiklik, çatışmazlıq",
+    "fav": false
+  },
+  {
+    "de": "Mannschaft (die)",
+    "tr": "komanda",
+    "fav": false
+  },
+  {
+    "de": "markant",
+    "tr": "fərqli, diqqət çəkən, özəl",
+    "fav": false
+  },
+  {
+    "de": "Masse (die)",
+    "tr": "kütlə",
+    "fav": false
+  },
+  {
+    "de": "Mauer (die)",
+    "tr": "divar",
+    "fav": false
+  },
+  {
+    "de": "Maßnahme (die)",
+    "tr": "tədbir, önləm",
+    "fav": false
+  },
+  {
+    "de": "mehrmals",
+    "tr": "bir neçə dəfə, təkrarən",
+    "fav": false
+  },
+  {
+    "de": "melden",
+    "tr": "xəbər vermək, bildirmək",
+    "fav": false
+  },
+  {
+    "de": "menschenscheu",
+    "tr": "çəkingən, utancaq",
+    "fav": false
+  },
+  {
+    "de": "merken",
+    "tr": "fərqinə varmaq",
+    "fav": false
+  },
+  {
+    "de": "merken Dat (sich)",
+    "tr": "əzbərləmək",
+    "fav": false
+  },
+  {
+    "de": "mindestens",
+    "tr": "ən azı",
+    "fav": false
+  },
+  {
+    "de": "Mitglied (das)",
+    "tr": "üzv",
+    "fav": false
+  },
+  {
+    "de": "mithelfen + Gen",
+    "tr": "köməyi ilə, yardımı ilə",
+    "fav": false
+  },
+  {
+    "de": "mitmachen",
+    "tr": "qatılmaq, iştirak etmək",
+    "fav": false
+  },
+  {
+    "de": "mitteilen",
+    "tr": "bildirmək, xəbər vermək",
+    "fav": false
+  },
+  {
+    "de": "mittlerweile",
+    "tr": "eyni anda, bu arada",
+    "fav": false
+  },
+  {
+    "de": "Mut (der)",
+    "tr": "cəsarət",
+    "fav": false
+  },
+  {
+    "de": "mäßig",
+    "tr": "orta dərəcəli, qıt",
+    "fav": false
+  },
+  {
+    "de": "Müdigkeit (die)",
+    "tr": "yorğunluq",
+    "fav": false
+  },
+  {
+    "de": "mühen (sich)",
+    "tr": "arxasınca düşmək, əldə etməyə çalışmaq",
+    "fav": false
+  },
+  {
+    "de": "mühevoll",
+    "tr": "zəhmətli, əziyyətli",
+    "fav": false
+  },
+  {
+    "de": "mühsam",
+    "tr": "məşəqqətli, yorucu",
+    "fav": false
+  },
+  {
+    "de": "nach und nach",
+    "tr": "yavaş-yavaş",
+    "fav": false
+  },
+  {
+    "de": "nach wie vor",
+    "tr": "əvvəlki kimi",
+    "fav": false
+  },
+  {
+    "de": "Nachfrage (die)",
+    "tr": "tələb, istək",
+    "fav": false
+  },
+  {
+    "de": "Naschen (das)",
+    "tr": "dadma, dadına baxma",
+    "fav": false
+  },
+  {
+    "de": "nass",
+    "tr": "yaş",
+    "fav": false
+  },
+  {
+    "de": "nebenan",
+    "tr": "bitişik, yanaşı",
+    "fav": false
+  },
+  {
+    "de": "nehmen keine Notiz von + Dativ",
+    "tr": "fikir verməmək, məhəl qoymamaq",
+    "fav": false
+  },
+  {
+    "de": "nennen",
+    "tr": "demək, adlandırmaq",
+    "fav": false
+  },
+  {
+    "de": "Nervenkitzel (der)",
+    "tr": "həyəcan, qorxu, adrenalin",
+    "fav": false
+  },
+  {
+    "de": "Neugierde (die)",
+    "tr": "maraq",
+    "fav": false
+  },
+  {
+    "de": "nie zuvor",
+    "tr": "daha öncə heç vaxt",
+    "fav": false
+  },
+  {
+    "de": "Niveau (das)",
+    "tr": "standart, səviyyə, dərəcə",
+    "fav": false
+  },
+  {
+    "de": "nix",
+    "tr": "heç bir şey",
+    "fav": false
+  },
+  {
+    "de": "notwendig",
+    "tr": "gərəkli, lazımlı, zəruri",
+    "fav": false
+  },
+  {
+    "de": "Ohnmacht (die)",
+    "tr": "bayılma, özündən getmə",
+    "fav": false
+  },
+  {
+    "de": "Pendeln",
+    "tr": "gedib gəlmək",
+    "fav": false
+  },
+  {
+    "de": "Pflicht (die)",
+    "tr": "görəv, vəzifə, borc",
+    "fav": false
+  },
+  {
+    "de": "Plagen",
+    "tr": "əzab vermək, yormaq, üzmək",
+    "fav": false
+  },
+  {
+    "de": "Platz verbrauchen",
+    "tr": "yer tutmaq",
+    "fav": false
+  },
+  {
+    "de": "Pleite (die)",
+    "tr": "iflas, tənəzzül, bankrot",
+    "fav": false
+  },
+  {
+    "de": "plötzlich",
+    "tr": "birdən-birə, anidən, qəfildən",
+    "fav": false
+  },
+  {
+    "de": "Quasi",
+    "tr": "həmən, o dəqiqə",
+    "fav": false
+  },
+  {
+    "de": "Quasi über Nacht",
+    "tr": "elə həmin gecə",
+    "fav": false
+  },
+  {
+    "de": "Quirlig",
+    "tr": "həvəsli, coşqun, istəkli, həyat dolu",
+    "fav": false
+  },
+  {
+    "de": "Randgruppe (die)",
+    "tr": "azlıq",
+    "fav": false
+  },
+  {
+    "de": "Rasch",
+    "tr": "tez, sürətlə",
+    "fav": false
+  },
+  {
+    "de": "Raten",
+    "tr": "məsləhət görmək, məsləhət etmək",
+    "fav": false
+  },
+  {
+    "de": "ratifizieren",
+    "tr": "dəstəkləmək",
+    "fav": false
+  },
+  {
+    "de": "rechtlich",
+    "tr": "qanuni, hüquqi olaraq",
+    "fav": false
+  },
+  {
+    "de": "Regelmäßig",
+    "tr": "müntəzəm, düzənli olaraq",
+    "fav": false
+  },
+  {
+    "de": "Regelrecht",
+    "tr": "büsbütün, tamamən",
+    "fav": false
+  },
+  {
+    "de": "Reklamieren",
+    "tr": "şikayət etmək",
+    "fav": false
+  },
+  {
+    "de": "Retten + vor Dat",
+    "tr": "xilas etmək",
+    "fav": false
+  },
+  {
+    "de": "Rettung (die)",
+    "tr": "xilas, qurtuluş, yardım",
+    "fav": false
+  },
+  {
+    "de": "Riechen",
+    "tr": "qoxlamaq, qoxmaq, iyləmək",
+    "fav": false
+  },
+  {
+    "de": "Riesig",
+    "tr": "mükəmməl, şahanə, çox böyük",
+    "fav": false
+  },
+  {
+    "de": "Ruck-zuck",
+    "tr": "cəld, tez",
+    "fav": false
+  },
+  {
+    "de": "Rufen nach Dat",
+    "tr": "ardından çağırmaq, səslənmək",
+    "fav": false
+  },
+  {
+    "de": "Rutschen in Akk",
+    "tr": "düşmək, sürüşüb düşmək",
+    "fav": false
+  },
+  {
+    "de": "Rückgang (der)",
+    "tr": "geriləmə, azalma",
+    "fav": false
+  },
+  {
+    "de": "sanft",
+    "tr": "sakit, yumşaq, həlim",
+    "fav": false
+  },
+  {
+    "de": "Sarg (der)",
+    "tr": "tabut",
+    "fav": false
+  },
+  {
+    "de": "schaffen",
+    "tr": "bacarmaq, çalışmaq, yaratmaq, daşımaq",
+    "fav": false
+  },
+  {
+    "de": "scheinen",
+    "tr": "kimi görünmək, parıldamaq",
+    "fav": false
+  },
+  {
+    "de": "schenken",
+    "tr": "doldurmaq, boşaltmaq",
+    "fav": false
+  },
+  {
+    "de": "Schicksal (das)",
+    "tr": "qismət, tale, bəxt",
+    "fav": false
+  },
+  {
+    "de": "schief",
+    "tr": "əyri, yalnış, tərs",
+    "fav": false
+  },
+  {
+    "de": "schier",
+    "tr": "sanki, yalnız, dərhal, saf",
+    "fav": false
+  },
+  {
+    "de": "schimpfen",
+    "tr": "söymək, danlamaq",
+    "fav": false
+  },
+  {
+    "de": "schließen",
+    "tr": "bitirmək, tamamlamaq, kilidləmək",
+    "fav": false
+  },
+  {
+    "de": "schließlich",
+    "tr": "sonunda, nəhayət",
+    "fav": false
+  },
+  {
+    "de": "Schmerzen zufügen (einem Tier)",
+    "tr": "əzab, ağrı vermək",
+    "fav": false
+  },
+  {
+    "de": "schuften",
+    "tr": "eşşək kimi çalışmaq",
+    "fav": false
+  },
+  {
+    "de": "Schulden (die)",
+    "tr": "borclar",
+    "fav": false
+  },
+  {
+    "de": "schulen",
+    "tr": "öyrətmək, alışdırmaq",
+    "fav": false
+  },
+  {
+    "de": "schwärmen",
+    "tr": "həyəcanla anlatmaq",
+    "fav": false
+  },
+  {
+    "de": "schüchtern",
+    "tr": "çəkingən, utancaq",
+    "fav": false
+  },
+  {
+    "de": "Sehnsucht (die)",
+    "tr": "həsrət",
+    "fav": false
+  },
+  {
+    "de": "sein in + Dativ + tatig",
+    "tr": "kimi çalışmaq",
+    "fav": false
+  },
+  {
+    "de": "selbstbewußt",
+    "tr": "özünə güvənən",
+    "fav": false
+  },
+  {
+    "de": "selbstständig",
+    "tr": "sərbəst, müstəqil",
+    "fav": false
+  },
+  {
+    "de": "setzen sich für + Akk ein",
+    "tr": "dəstəkləmək, tərəfini tutmaq",
+    "fav": false
+  },
+  {
+    "de": "sichern",
+    "tr": "sağlamaq, təmin etmək",
+    "fav": false
+  },
+  {
+    "de": "sinnlos",
+    "tr": "əbəs yerə, boşuna",
+    "fav": false
+  },
+  {
+    "de": "skeptisch",
+    "tr": "şübhəli, bəlirsiz, qaranlıq",
+    "fav": false
+  },
+  {
+    "de": "sofort",
+    "tr": "dərhal, həmən",
+    "fav": false
+  },
+  {
+    "de": "sowie",
+    "tr": "eləcə də, həm də",
+    "fav": false
+  },
+  {
+    "de": "speisen",
+    "tr": "yemək, yedirtmək",
+    "fav": false
+  },
+  {
+    "de": "spenden an Akk",
+    "tr": "dağıtmaq, bağışlamaq",
+    "fav": false
+  },
+  {
+    "de": "spucken",
+    "tr": "tüpürmək, qusmaq",
+    "fav": false
+  },
+  {
+    "de": "spüren",
+    "tr": "duymaq, hiss etmək",
+    "fav": false
+  },
+  {
+    "de": "stammen",
+    "tr": "çıxmaq, gəlmək, soyundan gəlmək",
+    "fav": false
+  },
+  {
+    "de": "Standbein (das)",
+    "tr": "dolanışıq yeri, ən böyük dəstək, gəlir yeri",
+    "fav": false
+  },
+  {
+    "de": "stattfinden",
+    "tr": "baş tutmaq, olub bitmək",
+    "fav": false
+  },
+  {
+    "de": "stecken",
+    "tr": "içində olmaq",
+    "fav": false
+  },
+  {
+    "de": "stehen für Akk",
+    "tr": "təmsil etmək, izah etmək",
+    "fav": false
+  },
+  {
+    "de": "steigen",
+    "tr": "qalxmaq, artmaq, çoxalmaq",
+    "fav": false
+  },
+  {
+    "de": "stellenweise",
+    "tr": "yeri gəldikcə, ara-sıra",
+    "fav": false
+  },
+  {
+    "de": "steuern (das)",
+    "tr": "idarə etmə, yönəltmə",
+    "fav": false
+  },
+  {
+    "de": "stoßen",
+    "tr": "itələmək, təpik atmaq, yumruq vurmaq",
+    "fav": false
+  },
+  {
+    "de": "Streifen",
+    "tr": "dolaşmaq, gəzmək, toxunmaq",
+    "fav": false
+  },
+  {
+    "de": "Streifenhörnchen (das)",
+    "tr": "sincab",
+    "fav": false
+  },
+  {
+    "de": "Strömung (die)",
+    "tr": "axın",
+    "fav": false
+  },
+  {
+    "de": "ständig",
+    "tr": "daima, fasiləsiz",
+    "fav": false
+  },
+  {
+    "de": "Stöbern",
+    "tr": "araşdırmaq, gözdən keçirmək, eşələmək",
+    "fav": false
+  },
+  {
+    "de": "stören + Akk",
+    "tr": "mane olmaq, narahat etmək",
+    "fav": false
+  },
+  {
+    "de": "Sucht",
+    "tr": "düşkünlük, tutqu",
+    "fav": false
+  },
+  {
+    "de": "süchtig",
+    "tr": "düşkün, bağlı, tutqun",
+    "fav": false
+  },
+  {
+    "de": "Talent (das)",
+    "tr": "istedad",
+    "fav": false
+  },
+  {
+    "de": "talentiert",
+    "tr": "istedadlı, yetənəkli",
+    "fav": false
+  },
+  {
+    "de": "tatsächlich",
+    "tr": "həqiqi, gerçək, həqiqətən",
+    "fav": false
+  },
+  {
+    "de": "tauchen",
+    "tr": "dalmaq, batmaq",
+    "fav": false
+  },
+  {
+    "de": "teilnehmen",
+    "tr": "iştirak etmək",
+    "fav": false
+  },
+  {
+    "de": "teilweise",
+    "tr": "qismən",
+    "fav": false
+  },
+  {
+    "de": "tragen",
+    "tr": "daşımaq",
+    "fav": false
+  },
+  {
+    "de": "trennen, sich",
+    "tr": "ayrılmaq",
+    "fav": false
+  },
+  {
+    "de": "Träne (die)",
+    "tr": "gözyaşı",
+    "fav": false
+  },
+  {
+    "de": "tätig sein",
+    "tr": "bir yerdə çalışmaq, işləmək",
+    "fav": false
+  },
+  {
+    "de": "Tätigkeit (die)",
+    "tr": "iş, məslək, fəaliyyət",
+    "fav": false
+  },
+  {
+    "de": "Ufer (das)",
+    "tr": "sahil, kənar",
+    "fav": false
+  },
+  {
+    "de": "umbauen",
+    "tr": "dəyişiklik etmək, dəyişmək",
+    "fav": false
+  },
+  {
+    "de": "umfassend",
+    "tr": "geniş, artıq",
+    "fav": false
+  },
+  {
+    "de": "umgehen",
+    "tr": "davranmaq, baş etmək",
+    "fav": false
+  },
+  {
+    "de": "umgekehrt",
+    "tr": "tərs, əks, əksinə",
+    "fav": false
+  },
+  {
+    "de": "umkreisen",
+    "tr": "dövrə vurmaq, ətrafında dönmək",
+    "fav": false
+  },
+  {
+    "de": "umsetzen",
+    "tr": "gerçəkləşdirmək, həyata keçirmək",
+    "fav": false
+  },
+  {
+    "de": "unappetitlich",
+    "tr": "dadsız, iştahqaçırdan",
+    "fav": false
+  },
+  {
+    "de": "unerreichbar",
+    "tr": "əlçatmaz",
+    "fav": false
+  },
+  {
+    "de": "unerwünscht",
+    "tr": "istəməyən",
+    "fav": false
+  },
+  {
+    "de": "Unfall (der)",
+    "tr": "qəza",
+    "fav": false
+  },
+  {
+    "de": "Ungeduld (das)",
+    "tr": "səbirsizlik",
+    "fav": false
+  },
+  {
+    "de": "ungewöhnlich",
+    "tr": "qeyri adi, fərqli, alışılmamış",
+    "fav": false
+  },
+  {
+    "de": "unglaublich",
+    "tr": "inanılmaz",
+    "fav": false
+  },
+  {
+    "de": "untergehen",
+    "tr": "batmaq, çökmək",
+    "fav": false
+  },
+  {
+    "de": "Unterlagen (die)",
+    "tr": "sənədlər",
+    "fav": false
+  },
+  {
+    "de": "unterstützen",
+    "tr": "dəstəkləmək",
+    "fav": false
+  },
+  {
+    "de": "Ursache (die)",
+    "tr": "nədən, səbəb",
+    "fav": false
+  },
+  {
+    "de": "variabel",
+    "tr": "qərarsız, dəyişkən, dəyişik",
+    "fav": false
+  },
+  {
+    "de": "verabreden sich",
+    "tr": "sözləşmək",
+    "fav": false
+  },
+  {
+    "de": "verantwortlich sein + für Akk",
+    "tr": "məsul, məsuliyyətli, sorumlu",
+    "fav": false
+  },
+  {
+    "de": "verbrauchen",
+    "tr": "sərf etmək, tükətmək",
+    "fav": false
+  },
+  {
+    "de": "verdrängen",
+    "tr": "atmaq, yerindən etmək",
+    "fav": false
+  },
+  {
+    "de": "verfolgen",
+    "tr": "izləmək, təqib etmək",
+    "fav": false
+  },
+  {
+    "de": "verfügen über Akk",
+    "tr": "sahib olmaq",
+    "fav": false
+  },
+  {
+    "de": "vergnügen (das)",
+    "tr": "zövq, həzz, məmnuniyyət",
+    "fav": false
+  },
+  {
+    "de": "verlagern",
+    "tr": "nəql etmək, yerini dəyişdirmək",
+    "fav": false
+  },
+  {
+    "de": "verlangen",
+    "tr": "tələb etmək, istəmək",
+    "fav": false
+  },
+  {
+    "de": "verlernen",
+    "tr": "öyrəndiyin unutmaq, tərgitmə",
+    "fav": false
+  },
+  {
+    "de": "verletzen (+an Dativ)",
+    "tr": "yararlanmaq",
+    "fav": false
+  },
+  {
+    "de": "verlieren sich",
+    "tr": "itmək, yoxa çıxmaq",
+    "fav": false
+  },
+  {
+    "de": "verloben sich",
+    "tr": "nişanlanmaq",
+    "fav": false
+  },
+  {
+    "de": "verlängern",
+    "tr": "uzatmaq",
+    "fav": false
+  },
+  {
+    "de": "vermeintlich",
+    "tr": "yalandan, sözdə, saxta",
+    "fav": false
+  },
+  {
+    "de": "vermindern",
+    "tr": "azaltmaq, aşağı salmaq",
+    "fav": false
+  },
+  {
+    "de": "vermissen",
+    "tr": "darıxmaq, yoxluğun hiss etmək",
+    "fav": false
+  },
+  {
+    "de": "Vermunt (die)",
+    "tr": "məntiq",
+    "fav": false
+  },
+  {
+    "de": "vermuten",
+    "tr": "sanmaq, fərz etmək, təxmin etmək",
+    "fav": false
+  },
+  {
+    "de": "Vermögen (das)",
+    "tr": "sərvət, varlıq, mal",
+    "fav": false
+  },
+  {
+    "de": "verpassen",
+    "tr": "qaçırmaq, buraxma",
+    "fav": false
+  },
+  {
+    "de": "verraten",
+    "tr": "ifşa etmək, açığa çıxartmaq, satmaq",
+    "fav": false
+  },
+  {
+    "de": "verschlingen",
+    "tr": "silib süpürmək, udmaq",
+    "fav": false
+  },
+  {
+    "de": "verschwiegen",
+    "tr": "ağzı sıx, ağzı bütöv, söz danışmayan",
+    "fav": false
+  },
+  {
+    "de": "verschwinden",
+    "tr": "yox olmaq, yoxa çıxmaq",
+    "fav": false
+  },
+  {
+    "de": "versehentlich",
+    "tr": "yanlışlıqla, diqqətsizlik üzündən",
+    "fav": false
+  },
+  {
+    "de": "versprechen",
+    "tr": "ümidli olmaq, söz vermək, bildirmək",
+    "fav": false
+  },
+  {
+    "de": "verstecken sich",
+    "tr": "saxlanmaq, gizlənmək",
+    "fav": false
+  },
+  {
+    "de": "verstellen",
+    "tr": "yerin dəyişdirmək",
+    "fav": false
+  },
+  {
+    "de": "verständigen",
+    "tr": "anlatmaq, bir-birinə açılmaq",
+    "fav": false
+  },
+  {
+    "de": "verständnisvoll",
+    "tr": "anlayışlı",
+    "fav": false
+  },
+  {
+    "de": "versuchen",
+    "tr": "çalışmaq, səy göstərmək",
+    "fav": false
+  },
+  {
+    "de": "vertrauen",
+    "tr": "inanmaq, güvənmək",
+    "fav": false
+  },
+  {
+    "de": "verträumt",
+    "tr": "dalğın, səssiz, xəyalpərəst",
+    "fav": false
+  },
+  {
+    "de": "verurteilen",
+    "tr": "qınamaq, hökm vermək",
+    "fav": false
+  },
+  {
+    "de": "verwenden",
+    "tr": "istifadə etmək, sərf etmək",
+    "fav": false
+  },
+  {
+    "de": "verwirklichen",
+    "tr": "gerçəkləşdirmək",
+    "fav": false
+  },
+  {
+    "de": "verwitwet",
+    "tr": "dul",
+    "fav": false
+  },
+  {
+    "de": "verzeihen",
+    "tr": "əfv etmək, bağışlamaq",
+    "fav": false
+  },
+  {
+    "de": "Verzeihung",
+    "tr": "Bağışlayın!",
+    "fav": false
+  },
+  {
+    "de": "verzweifeln",
+    "tr": "ümidsizliyə düşmək",
+    "fav": false
+  },
+  {
+    "de": "verzweifelt",
+    "tr": "çarəsiz, ümidsiz",
+    "fav": false
+  },
+  {
+    "de": "verärgert",
+    "tr": "qəzəbli, canı sıxılmış, üzülmüş, üzgün",
+    "fav": false
+  },
+  {
+    "de": "vielfaches",
+    "tr": "çeşidli, hər cürə",
+    "fav": false
+  },
+  {
+    "de": "voraussetzen",
+    "tr": "şərt qoymaq",
+    "fav": false
+  },
+  {
+    "de": "vorher",
+    "tr": "bundan əvvəl, öncədən",
+    "fav": false
+  },
+  {
+    "de": "Vorschlag (der)",
+    "tr": "təklif",
+    "fav": false
+  },
+  {
+    "de": "Vorsorge (die)",
+    "tr": "tədbir, önləm",
+    "fav": false
+  },
+  {
+    "de": "Vorurteil (der)",
+    "tr": "qınaq, önyarğı",
+    "fav": false
+  },
+  {
+    "de": "vorweg",
+    "tr": "öncədən",
+    "fav": false
+  },
+  {
+    "de": "wberzeugen Akk von Dat",
+    "tr": "inandırmaq, yola gətirmək",
+    "fav": false
+  },
+  {
+    "de": "Wechsel (der)",
+    "tr": "dəyişiklik, dəyişim",
+    "fav": false
+  },
+  {
+    "de": "wegen + Gen",
+    "tr": "görə",
+    "fav": false
+  },
+  {
+    "de": "weglegen",
+    "tr": "bir yana qoymaq",
+    "fav": false
+  },
+  {
+    "de": "wegwerfen",
+    "tr": "başından atmaq, tullamaq",
+    "fav": false
+  },
+  {
+    "de": "weitergehen",
+    "tr": "davam etmək, yoluna davam etmək",
+    "fav": false
+  },
+  {
+    "de": "weiterhin",
+    "tr": "bundan başqa, ayrıca",
+    "fav": false
+  },
+  {
+    "de": "weitsichtig",
+    "tr": "uzaqgörən",
+    "fav": false
+  },
+  {
+    "de": "weltfremd",
+    "tr": "qəribə, fantastik, əcayib",
+    "fav": false
+  },
+  {
+    "de": "weltweit",
+    "tr": "bütün dünyada",
+    "fav": false
+  },
+  {
+    "de": "werben",
+    "tr": "reklam etmək, təbliğ etmək",
+    "fav": false
+  },
+  {
+    "de": "wickeln",
+    "tr": "sarmaq, dolamaq (ətrafını)",
+    "fav": false
+  },
+  {
+    "de": "widmen sich",
+    "tr": "özünü həsr etmək, əlləşmək",
+    "fav": false
+  },
+  {
+    "de": "wiegen",
+    "tr": "ağırlığında olmaq",
+    "fav": false
+  },
+  {
+    "de": "wild",
+    "tr": "vəhşi",
+    "fav": false
+  },
+  {
+    "de": "Winken (das)",
+    "tr": "əl sallama",
+    "fav": false
+  },
+  {
+    "de": "wirken",
+    "tr": "təsir etmək",
+    "fav": false
+  },
+  {
+    "de": "witzig",
+    "tr": "komik, zarafatcıl",
+    "fav": false
+  },
+  {
+    "de": "woanders",
+    "tr": "başqa yerdə",
+    "fav": false
+  },
+  {
+    "de": "wohl",
+    "tr": "isə də, əcaba, mübahisəsiz, deyəsən",
+    "fav": false
+  },
+  {
+    "de": "wohlfühlen, sich",
+    "tr": "özünü yaxşı hiss etmək",
+    "fav": false
+  },
+  {
+    "de": "Wohnheim (das)",
+    "tr": "yataqxana, pansionat",
+    "fav": false
+  },
+  {
+    "de": "womöglich",
+    "tr": "mümkünsə, bəlkə də",
+    "fav": false
+  },
+  {
+    "de": "Wortergreifen (das)",
+    "tr": "söz almaq",
+    "fav": false
+  },
+  {
+    "de": "wünschenswert",
+    "tr": "arzu edilən, istənən",
+    "fav": false
+  },
+  {
+    "de": "Zeitvertreiben, sich",
+    "tr": "vaxtın keçirtmək",
+    "fav": false
+  },
+  {
+    "de": "zerstören",
+    "tr": "yıxmaq, yox etmək",
+    "fav": false
+  },
+  {
+    "de": "zierlich",
+    "tr": "zərif, incə, mükəmməl bir şey",
+    "fav": false
+  },
+  {
+    "de": "zu viert",
+    "tr": "dördlükdə",
+    "fav": false
+  },
+  {
+    "de": "zudem",
+    "tr": "bundan başqa, üstəlik",
+    "fav": false
+  },
+  {
+    "de": "Zufall überlassen (dem)",
+    "tr": "təsadüfə buraxmaq",
+    "fav": false
+  },
+  {
+    "de": "zufrieden sein + mit Dat",
+    "tr": "razı qalmaq",
+    "fav": false
+  },
+  {
+    "de": "zufällig",
+    "tr": "təsadüfən",
+    "fav": false
+  },
+  {
+    "de": "zugleich",
+    "tr": "eyni anda, bu arada, eyni əsnada",
+    "fav": false
+  },
+  {
+    "de": "zulassen",
+    "tr": "icazə vermək, içəri buraxmaq",
+    "fav": false
+  },
+  {
+    "de": "zuletzt",
+    "tr": "son olaraq, nəhayət, sonunda",
+    "fav": false
+  },
+  {
+    "de": "zumal",
+    "tr": "ən başda, özəlliklə",
+    "fav": false
+  },
+  {
+    "de": "zunehmen",
+    "tr": "artmaq, kökəlmək",
+    "fav": false
+  },
+  {
+    "de": "zurückfordern",
+    "tr": "geri istəmək",
+    "fav": false
+  },
+  {
+    "de": "zurückhaben",
+    "tr": "geri almaq",
+    "fav": false
+  },
+  {
+    "de": "zurückkehren",
+    "tr": "geri dönmək",
+    "fav": false
+  },
+  {
+    "de": "zusammenfassen",
+    "tr": "xülasə vermək, toplamaq",
+    "fav": false
+  },
+  {
+    "de": "zusprechen",
+    "tr": "vəsiyət etmək, səlahiyyətinə vermək",
+    "fav": false
+  },
+  {
+    "de": "Zuspruch finden",
+    "tr": "rəğbət qazanmaq",
+    "fav": false
+  },
+  {
+    "de": "zuverlässig",
+    "tr": "etibarlı",
+    "fav": false
+  },
+  {
+    "de": "zwar",
+    "tr": "olsa da",
+    "fav": false
+  },
+  {
+    "de": "zweckmäßig",
+    "tr": "yararlı, istifadə olunan, məqsədə uyğun",
+    "fav": false
+  },
+  {
+    "de": "zweierlei",
+    "tr": "iki cür",
+    "fav": false
+  },
+  {
+    "de": "zwerk (der)",
+    "tr": "məqsəd, niyyət, hədəf",
+    "fav": false
+  },
+  {
+    "de": "zwingen",
+    "tr": "məcbur etmək, zorlamaq",
+    "fav": false
+  },
+  {
+    "de": "ändern",
+    "tr": "dəyişdirmək, təhrif etmək",
+    "fav": false
+  },
+  {
+    "de": "ängstlich",
+    "tr": "qorxaq, təlaşlı",
+    "fav": false
+  },
+  {
+    "de": "Ärmste (der)",
+    "tr": "kasıb, zavallı, yazıq",
+    "fav": false
+  },
+  {
+    "de": "überfordert sein",
+    "tr": "tükənmiş olmaq, əzilmiş, boğulmuş olmaq",
+    "fav": false
+  },
+  {
+    "de": "überhören",
+    "tr": "eşitməmək, eşitməzlikdən gəlmək",
+    "fav": false
+  },
+  {
+    "de": "überleben",
+    "tr": "qurtulmaq, həyatda qalmaq",
+    "fav": false
+  },
+  {
+    "de": "überlegen",
+    "tr": "düşünüb daşınmaq",
+    "fav": false
+  },
+  {
+    "de": "überqueren",
+    "tr": "keçmək, qarşı tərəfə keçmək",
+    "fav": false
+  },
+  {
+    "de": "überraschen",
+    "tr": "heyrətləndirmək",
+    "fav": false
+  },
+  {
+    "de": "überstehen",
+    "tr": "atlatmak, aşmaq",
+    "fav": false
+  },
+  {
+    "de": "übertreiben",
+    "tr": "böyütmək, şişirtmək",
+    "fav": false
+  },
+  {
+    "de": "üblich sein",
+    "tr": "adət olmaq, sıradan bir şey, alışılmış",
+    "fav": false
+  }
+]
