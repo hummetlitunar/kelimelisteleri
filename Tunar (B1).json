@@ -5,14 +5,16 @@
     "fav": false
   },
   {
-    "de": "Abenteuer (das)",
+    "de": "Abenteuer",
     "tr": "macəra",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Abfall (der)",
+    "de": "Abfall",
     "tr": "tullantı, qalıq, qırıntı",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "abgeben",
@@ -60,19 +62,22 @@
     "fav": false
   },
   {
-    "de": "Abprache (die)",
+    "de": "Abprache",
     "tr": "anlaşma, sözləşmə, razılaşma",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Absatz (der)",
+    "de": "Absatz",
     "tr": "satış",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Abschaffung (die)",
+    "de": "Abschaffung",
     "tr": "ləğv",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "abschicken",
@@ -100,9 +105,10 @@
     "fav": false
   },
   {
-    "de": "Abwechslung (die)",
+    "de": "Abwechslung",
     "tr": "dəyişim, dəyişiklik",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "Adäquates, etwas",
@@ -110,9 +116,10 @@
     "fav": false
   },
   {
-    "de": "Albtraum (der)",
+    "de": "Albtraum",
     "tr": "kabus, qorxulu yuxu",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "alleinerziehend",
@@ -215,9 +222,10 @@
     "fav": false
   },
   {
-    "de": "Anleitung (die)",
+    "de": "Anleitung",
     "tr": "təlimat",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "annehmen",
@@ -250,9 +258,10 @@
     "fav": false
   },
   {
-    "de": "Anspruch (der)",
+    "de": "Anspruch",
     "tr": "tələb, haqq, iddia, istək",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "anstellen",
@@ -275,14 +284,16 @@
     "fav": false
   },
   {
-    "de": "Anzahl (die)",
+    "de": "Anzahl",
     "tr": "say, miqdar",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Anzug (der)",
+    "de": "Anzug",
     "tr": "köç, daşınma",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "Appell (der) + an Akk",
@@ -290,19 +301,22 @@
     "fav": false
   },
   {
-    "de": "Applaus (der)",
+    "de": "Applaus",
     "tr": "alqış",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Arbeitszeugnis (das)",
+    "de": "Arbeitszeugnis",
     "tr": "iş yerindən arayış",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Armut (die)",
+    "de": "Armut",
     "tr": "yoxsulluq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "atmen",
@@ -340,14 +354,16 @@
     "fav": false
   },
   {
-    "de": "Aufklärung (die)",
+    "de": "Aufklärung",
     "tr": "açıqlama",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Auflistung (die)",
+    "de": "Auflistung",
     "tr": "siyahı",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "aufpassen",
@@ -370,9 +386,10 @@
     "fav": false
   },
   {
-    "de": "Aufschwung (der)",
+    "de": "Aufschwung",
     "tr": "yüksəliş, artım",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "aufteilen",
@@ -380,9 +397,10 @@
     "fav": false
   },
   {
-    "de": "Auftreten (das)",
+    "de": "Auftreten",
     "tr": "çıxış",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "Auftritt",
@@ -405,9 +423,10 @@
     "fav": false
   },
   {
-    "de": "Ausdauer (die)",
+    "de": "Ausdauer",
     "tr": "səbr, dayanma gücü",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "ausdrücken",
@@ -455,9 +474,10 @@
     "fav": false
   },
   {
-    "de": "Ausstellung (die)",
+    "de": "Ausstellung",
     "tr": "sərgi",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "aussterben",
@@ -465,9 +485,10 @@
     "fav": false
   },
   {
-    "de": "Auswahl an Dat (die)",
+    "de": "Auswahl an Dat",
     "tr": "çeşid",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "Auswahl treffen (eine)",
@@ -480,9 +501,10 @@
     "fav": false
   },
   {
-    "de": "Auszeichnung (die)",
+    "de": "Auszeichnung",
     "tr": "təltif, mükafat",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "Backgammon",
@@ -490,14 +512,16 @@
     "fav": false
   },
   {
-    "de": "Bauer (der)",
+    "de": "Bauer",
     "tr": "kəndli",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Bauwerk (das)",
+    "de": "Bauwerk",
     "tr": "bina",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "beachten",
@@ -560,9 +584,10 @@
     "fav": false
   },
   {
-    "de": "Beitrag (der)",
+    "de": "Beitrag",
     "tr": "ödəniş",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "bekannt sein durch Akk",
@@ -590,9 +615,10 @@
     "fav": false
   },
   {
-    "de": "Belange (die)",
+    "de": "Belange",
     "tr": "maraq, mənfəət, çıxar",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "beliebt",
@@ -605,19 +631,22 @@
     "fav": false
   },
   {
-    "de": "Belohnung (die)",
+    "de": "Belohnung",
     "tr": "ödül, mükafat",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Beratung (die)",
+    "de": "Beratung",
     "tr": "tövsiyyə",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Berechnung (die)",
+    "de": "Berechnung",
     "tr": "hesab, təxmin, hesablanma",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "berechtigen",
@@ -655,9 +684,10 @@
     "fav": false
   },
   {
-    "de": "Besitz (der)",
+    "de": "Besitz",
     "tr": "mülkiyyət, sahiblik",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "besorgen",
@@ -700,14 +730,16 @@
     "fav": false
   },
   {
-    "de": "Betreff (der)",
+    "de": "Betreff",
     "tr": "özət, mövzu, problem",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Betrieb (der)",
+    "de": "Betrieb",
     "tr": "firma, müəssisə, idarə",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "betrunken",
@@ -715,14 +747,16 @@
     "fav": false
   },
   {
-    "de": "Bewegung (die)",
+    "de": "Bewegung",
     "tr": "hərəkət, idman",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Beweis (der)",
+    "de": "Beweis",
     "tr": "sübut, dəlil",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "bewerben",
@@ -730,9 +764,10 @@
     "fav": false
   },
   {
-    "de": "Bewerber (der)",
+    "de": "Bewerber",
     "tr": "namizəd",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "bewerten",
@@ -785,9 +820,10 @@
     "fav": false
   },
   {
-    "de": "Blatt (das)",
+    "de": "Blatt",
     "tr": "vərəq, yarpaq",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "bleiben locker",
@@ -825,34 +861,40 @@
     "fav": false
   },
   {
-    "de": "Boot (das)",
+    "de": "Boot",
     "tr": "qayıq",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Botschaft (die)",
+    "de": "Botschaft",
     "tr": "mesaj, səfirlik",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Branche (die)",
+    "de": "Branche",
     "tr": "sektor, sahə",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Bruchteil (der)",
+    "de": "Bruchteil",
     "tr": "bölüm, qism",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Brücke (die)",
+    "de": "Brücke",
     "tr": "körpü",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Buchführung (die)",
+    "de": "Buchführung",
     "tr": "mühasibat",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "bunt",
@@ -860,19 +902,22 @@
     "fav": false
   },
   {
-    "de": "Burg (die)",
+    "de": "Burg",
     "tr": "qəsəbə, şəhər",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Bühne (die)",
+    "de": "Bühne",
     "tr": "səhnə",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Bühnenbild (das)",
+    "de": "Bühnenbild",
     "tr": "dekor",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "dabeihaben",
@@ -880,9 +925,10 @@
     "fav": false
   },
   {
-    "de": "Dach (das)",
+    "de": "Dach",
     "tr": "dam, çatı",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "dafür sein",
@@ -915,19 +961,22 @@
     "fav": false
   },
   {
-    "de": "Datei (die)",
+    "de": "Datei",
     "tr": "sənəd",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Dauerlob (das)",
+    "de": "Dauerlob",
     "tr": "daimi tərif",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Decke (die)",
+    "de": "Decke",
     "tr": "örtük, yorğan",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "dem Zufall überlassen",
@@ -960,14 +1009,16 @@
     "fav": false
   },
   {
-    "de": "Dienste (die)",
+    "de": "Dienste",
     "tr": "xidmət, servis",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Direktflug (der)",
+    "de": "Direktflug",
     "tr": "birbaşa uçuş",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "doppelt",
@@ -975,14 +1026,16 @@
     "fav": false
   },
   {
-    "de": "Dorf (das)",
+    "de": "Dorf",
     "tr": "kənd",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Drachen (der)",
+    "de": "Drachen",
     "tr": "çərpələng",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "dran sein",
@@ -990,9 +1043,10 @@
     "fav": false
   },
   {
-    "de": "Dreck (der)",
+    "de": "Dreck",
     "tr": "kir, çirk",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "dringen durch Akk",
@@ -1005,9 +1059,10 @@
     "fav": false
   },
   {
-    "de": "Druck (der)",
+    "de": "Druck",
     "tr": "təzyiq, basğı",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "drängen",
@@ -1045,14 +1100,16 @@
     "fav": false
   },
   {
-    "de": "Durchblick (der)",
+    "de": "Durchblick",
     "tr": "mənzərə, görünüş",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Durchblutung (die)",
+    "de": "Durchblutung",
     "tr": "qandövranı",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "durcheinander",
@@ -1080,14 +1137,16 @@
     "fav": false
   },
   {
-    "de": "Dürre (die)",
+    "de": "Dürre",
     "tr": "quraqlıq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Ebene (die)",
+    "de": "Ebene",
     "tr": "səviyyə, sahə",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "ebenfalls",
@@ -1100,14 +1159,16 @@
     "fav": false
   },
   {
-    "de": "Echtheit (die)",
+    "de": "Echtheit",
     "tr": "gerçəklik, həqiqət, orijinallıq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Ecke (die)",
+    "de": "Ecke",
     "tr": "küncdə, kənarda (um die Ecke)",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "edel",
@@ -1135,9 +1196,10 @@
     "fav": false
   },
   {
-    "de": "Eindruck (der)",
+    "de": "Eindruck",
     "tr": "təəssürat",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "einfatlen + Dat",
@@ -1170,14 +1232,16 @@
     "fav": false
   },
   {
-    "de": "Einsamkeit (die)",
+    "de": "Einsamkeit",
     "tr": "tənhalıq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Einsatz (der)",
+    "de": "Einsatz",
     "tr": "əməliyyat, iş",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "einschenken",
@@ -1210,9 +1274,10 @@
     "fav": false
   },
   {
-    "de": "Einzelstück (das)",
+    "de": "Einzelstück",
     "tr": "nadir parça",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "ekelig",
@@ -1220,9 +1285,10 @@
     "fav": false
   },
   {
-    "de": "Empfehlung (die)",
+    "de": "Empfehlung",
     "tr": "tövsiyyə",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "empfinden",
@@ -1235,14 +1301,16 @@
     "fav": false
   },
   {
-    "de": "Engagement (das)",
+    "de": "Engagement",
     "tr": "məsuliyyət, iş",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Enkel (der)",
+    "de": "Enkel",
     "tr": "nəvə",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "enorm",
@@ -1320,9 +1388,10 @@
     "fav": false
   },
   {
-    "de": "Erbe (das)",
+    "de": "Erbe",
     "tr": "miras",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "erben",
@@ -1330,14 +1399,16 @@
     "fav": false
   },
   {
-    "de": "Erde (die)",
+    "de": "Erde",
     "tr": "yer üzü, torpaq, yer",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Ereignis (das)",
+    "de": "Ereignis",
     "tr": "hadisə, olay",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "erfahren",
@@ -1350,9 +1421,10 @@
     "fav": false
   },
   {
-    "de": "Erfolglosigkeit (die)",
+    "de": "Erfolglosigkeit",
     "tr": "uğursuzluq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "erfolgreich",
@@ -1385,9 +1457,10 @@
     "fav": false
   },
   {
-    "de": "Erkenntnis (die)",
+    "de": "Erkenntnis",
     "tr": "məlumat, bilgi",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "erkunden",
@@ -1405,9 +1478,10 @@
     "fav": false
   },
   {
-    "de": "Erlebnis (das)",
+    "de": "Erlebnis",
     "tr": "macəra",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "erledigen",
@@ -1435,14 +1509,16 @@
     "fav": false
   },
   {
-    "de": "Ernährung (die)",
+    "de": "Ernährung",
     "tr": "qidalanma",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Ernüchterung (die)",
+    "de": "Ernüchterung",
     "tr": "məyusluq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "erschrecken",
@@ -1480,9 +1556,10 @@
     "fav": false
   },
   {
-    "de": "Ertrinken (das)",
+    "de": "Ertrinken",
     "tr": "boğulma",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "erwachen",
@@ -1520,14 +1597,16 @@
     "fav": false
   },
   {
-    "de": "Existenz (die)",
+    "de": "Existenz",
     "tr": "dolanışıq, keçim",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Fachmann (der)",
+    "de": "Fachmann",
     "tr": "mütəxəssis, peşəkar",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "fassen",
@@ -1540,9 +1619,10 @@
     "fav": false
   },
   {
-    "de": "Fazit (das)",
+    "de": "Fazit",
     "tr": "nəticə",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "fehlen + Dat",
@@ -1550,9 +1630,10 @@
     "fav": false
   },
   {
-    "de": "Fehler (der)",
+    "de": "Fehler",
     "tr": "səhv, yalnış, xəta",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "fein",
@@ -1580,39 +1661,46 @@
     "fav": false
   },
   {
-    "de": "Flatrate (die)",
+    "de": "Flatrate",
     "tr": "sabit qiymət",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Fleck (der)",
+    "de": "Fleck",
     "tr": "ləkə",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Flieger (der)",
+    "de": "Flieger",
     "tr": "sürət qatarı, pilot",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Fluggesellschaft (die)",
+    "de": "Fluggesellschaft",
     "tr": "hava yolu şirkəti, avia şirkət",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Fluss (der)",
+    "de": "Fluss",
     "tr": "çay",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Folge (die)",
+    "de": "Folge",
     "tr": "nəticə, sonuc, sıra",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Folgejahr (das)",
+    "de": "Folgejahr",
     "tr": "sonrakı il",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "folglich",
@@ -1635,9 +1723,10 @@
     "fav": false
   },
   {
-    "de": "Frieden (der)",
+    "de": "Frieden",
     "tr": "sülh",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "frisieren",
@@ -1650,19 +1739,22 @@
     "fav": false
   },
   {
-    "de": "Frustration (die)",
+    "de": "Frustration",
     "tr": "xəyal qırıqlığı, məyusluq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Futter (das)",
+    "de": "Futter",
     "tr": "yem",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Fußboden (der)",
+    "de": "Fußboden",
     "tr": "döşəmə, yer",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "fördern",
@@ -1670,9 +1762,10 @@
     "fav": false
   },
   {
-    "de": "Förderung (die)",
+    "de": "Förderung",
     "tr": "dəstək, yardım",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "führen zu Dat",
@@ -1680,9 +1773,10 @@
     "fav": false
   },
   {
-    "de": "Gastgeber (der)",
+    "de": "Gastgeber",
     "tr": "ev sahibi",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "gebildet",
@@ -1690,24 +1784,28 @@
     "fav": false
   },
   {
-    "de": "Geburt (die)",
+    "de": "Geburt",
     "tr": "doğum, doğuş",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Gedanke (der)",
+    "de": "Gedanke",
     "tr": "fikir, düşüncə",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Gedächtnis (das)",
+    "de": "Gedächtnis",
     "tr": "yaddaş",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Gefahr (die)",
+    "de": "Gefahr",
     "tr": "təhlükə",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "gefallen + Dat",
@@ -1720,9 +1818,10 @@
     "fav": false
   },
   {
-    "de": "Geheimnis (das)",
+    "de": "Geheimnis",
     "tr": "sirr",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "geheimnisvoll",
@@ -1740,14 +1839,16 @@
     "fav": false
   },
   {
-    "de": "Geisteshaltung (die)",
+    "de": "Geisteshaltung",
     "tr": "anlayış, düşüncə, zehniyyət",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "geistigen Fähigkeiten (die)",
+    "de": "geistigen Fähigkeiten",
     "tr": "zehni, əqli bacarıqlar",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "geistreich",
@@ -1760,9 +1861,10 @@
     "fav": false
   },
   {
-    "de": "Gelassenheit (die)",
+    "de": "Gelassenheit",
     "tr": "sakitlik, soyuqqanlılıq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "gelten als",
@@ -1775,9 +1877,10 @@
     "fav": false
   },
   {
-    "de": "Gemeinschaft (die)",
+    "de": "Gemeinschaft",
     "tr": "toplum, cəmiyyət",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "generell",
@@ -1835,14 +1938,16 @@
     "fav": false
   },
   {
-    "de": "Geräusch (das)",
+    "de": "Geräusch",
     "tr": "səs, gurultu",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Gerücht (das)",
+    "de": "Gerücht",
     "tr": "dedi-qodu",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "geschehen",
@@ -1855,14 +1960,16 @@
     "fav": false
   },
   {
-    "de": "Geschirr (das)",
+    "de": "Geschirr",
     "tr": "qab-qacaq",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Gesicht (das)",
+    "de": "Gesicht",
     "tr": "üz, sifət, surət, çöhrə",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "Gespräche führen",
@@ -1870,9 +1977,10 @@
     "fav": false
   },
   {
-    "de": "Gestalten (das)",
+    "de": "Gestalten",
     "tr": "düzətmə, təşkil etmə",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "gestapelt",
@@ -1905,9 +2013,10 @@
     "fav": false
   },
   {
-    "de": "Gewissen (das)",
+    "de": "Gewissen",
     "tr": "vicdan",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "gewöhnen an Akk, sich",
@@ -1915,9 +2024,10 @@
     "fav": false
   },
   {
-    "de": "Gipfel (der)",
+    "de": "Gipfel",
     "tr": "zirvə",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "glanzvoll",
@@ -1935,9 +2045,10 @@
     "fav": false
   },
   {
-    "de": "Gleichstellung (die)",
+    "de": "Gleichstellung",
     "tr": "bərabərlik",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "gleichzeitig",
@@ -1945,9 +2056,10 @@
     "fav": false
   },
   {
-    "de": "Glühbirne (die)",
+    "de": "Glühbirne",
     "tr": "lampa",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "Greifen nach Dat",
@@ -1975,9 +2087,10 @@
     "fav": false
   },
   {
-    "de": "Gründer (der)",
+    "de": "Gründer",
     "tr": "qurucu",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "gucken",
@@ -2010,9 +2123,10 @@
     "fav": false
   },
   {
-    "de": "Hafen (der)",
+    "de": "Hafen",
     "tr": "liman",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "halten",
@@ -2030,14 +2144,16 @@
     "fav": false
   },
   {
-    "de": "Haufen (der)",
+    "de": "Haufen",
     "tr": "yığın, basabas",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Heft (das)",
+    "de": "Heft",
     "tr": "broşür, kitabça, dəftər, buklet",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "heftig",
@@ -2055,24 +2171,28 @@
     "fav": false
   },
   {
-    "de": "Heimweh (das)",
+    "de": "Heimweh",
     "tr": "vətən həsrəti",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Heirat (die)",
+    "de": "Heirat",
     "tr": "evlilik",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Heizung (die)",
+    "de": "Heizung",
     "tr": "isitmə",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Held (der)",
+    "de": "Held",
     "tr": "qəhrəman",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "heldenhaft",
@@ -2085,14 +2205,16 @@
     "fav": false
   },
   {
-    "de": "Herde (die)",
+    "de": "Herde",
     "tr": "sürü",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Herkunft (die)",
+    "de": "Herkunft",
     "tr": "soy, əsil, qaynaq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "herlaufen",
@@ -2115,9 +2237,10 @@
     "fav": false
   },
   {
-    "de": "Heulen (das)",
+    "de": "Heulen",
     "tr": "ulama, ağlama",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "heutig",
@@ -2150,14 +2273,16 @@
     "fav": false
   },
   {
-    "de": "Hof (der)",
+    "de": "Hof",
     "tr": "saray, həyət",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Hoffnung (die)",
+    "de": "Hoffnung",
     "tr": "ümid",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "holen",
@@ -2165,9 +2290,10 @@
     "fav": false
   },
   {
-    "de": "Huhn (das)",
+    "de": "Huhn",
     "tr": "toyuq",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "höflich",
@@ -2180,9 +2306,10 @@
     "fav": false
   },
   {
-    "de": "Hütte (die)",
+    "de": "Hütte",
     "tr": "viranə, daxma",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "immerhin",
@@ -2190,14 +2317,16 @@
     "fav": false
   },
   {
-    "de": "Interesse wecken (das)",
+    "de": "Interesse wecken",
     "tr": "maraq oyatmaq",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Intoleranz (die)",
+    "de": "Intoleranz",
     "tr": "dayanmama, dözməmə, təhəmmül etməmə",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "irgendetwas",
@@ -2230,14 +2359,16 @@
     "fav": false
   },
   {
-    "de": "Kette (die)",
+    "de": "Kette",
     "tr": "zəncir, şəbəkə",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Klatsch (der)",
+    "de": "Klatsch",
     "tr": "söhbət, dedi qodu, qeybət",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "klicken",
@@ -2245,9 +2376,10 @@
     "fav": false
   },
   {
-    "de": "Klingel (die)",
+    "de": "Klingel",
     "tr": "zınqırov, zil",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "knapp",
@@ -2255,14 +2387,16 @@
     "fav": false
   },
   {
-    "de": "Kneipe (die)",
+    "de": "Kneipe",
     "tr": "meyxana",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Knick (der)",
+    "de": "Knick",
     "tr": "maraq, boşluq, çatlaq, bükülmə",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "komischerweise",
@@ -2280,9 +2414,10 @@
     "fav": false
   },
   {
-    "de": "Kraft (die)",
+    "de": "Kraft",
     "tr": "qüvvə, güc",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "Kraft tanken",
@@ -2295,9 +2430,10 @@
     "fav": false
   },
   {
-    "de": "Kreißsaal (der)",
+    "de": "Kreißsaal",
     "tr": "doğum otağı",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "kurz darauf",
@@ -2310,9 +2446,10 @@
     "fav": false
   },
   {
-    "de": "Köstlichkeit (die)",
+    "de": "Köstlichkeit",
     "tr": "ləzzət",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "kündigen",
@@ -2325,9 +2462,10 @@
     "fav": false
   },
   {
-    "de": "Laden (der)",
+    "de": "Laden",
     "tr": "mağaza",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "lagern",
@@ -2350,14 +2488,16 @@
     "fav": false
   },
   {
-    "de": "Laut (der)",
+    "de": "Laut",
     "tr": "səs, səda",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Lebensgefährte (der)",
+    "de": "Lebensgefährte",
     "tr": "həyat yoldaşı",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "lebhaft",
@@ -2375,9 +2515,10 @@
     "fav": false
   },
   {
-    "de": "Leistung (die)",
+    "de": "Leistung",
     "tr": "başarı, müvəffəqiyyət, performans",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "Leitung haben",
@@ -2385,9 +2526,10 @@
     "fav": false
   },
   {
-    "de": "Leprakranke (der)",
+    "de": "Leprakranke",
     "tr": "cüzzamlı xəstə",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "lesenswert",
@@ -2395,9 +2537,10 @@
     "fav": false
   },
   {
-    "de": "Lesestoff (der)",
+    "de": "Lesestoff",
     "tr": "oxu materialı",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "leuchten",
@@ -2410,9 +2553,10 @@
     "fav": false
   },
   {
-    "de": "Lieferung (die)",
+    "de": "Lieferung",
     "tr": "təslim, tədarük, çatdırılma",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "loyal",
@@ -2430,9 +2574,10 @@
     "fav": false
   },
   {
-    "de": "Macht (die)",
+    "de": "Macht",
     "tr": "güc, qüdrət, iqtidar",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "magisch",
@@ -2440,14 +2585,16 @@
     "fav": false
   },
   {
-    "de": "Mangel (der)",
+    "de": "Mangel",
     "tr": "əksiklik, çatışmazlıq",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Mannschaft (die)",
+    "de": "Mannschaft",
     "tr": "komanda",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "markant",
@@ -2455,19 +2602,22 @@
     "fav": false
   },
   {
-    "de": "Masse (die)",
+    "de": "Masse",
     "tr": "kütlə",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Mauer (die)",
+    "de": "Mauer",
     "tr": "divar",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Maßnahme (die)",
+    "de": "Maßnahme",
     "tr": "tədbir, önləm",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "mehrmals",
@@ -2500,9 +2650,10 @@
     "fav": false
   },
   {
-    "de": "Mitglied (das)",
+    "de": "Mitglied",
     "tr": "üzv",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "mithelfen + Gen",
@@ -2525,9 +2676,10 @@
     "fav": false
   },
   {
-    "de": "Mut (der)",
+    "de": "Mut",
     "tr": "cəsarət",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "mäßig",
@@ -2535,9 +2687,10 @@
     "fav": false
   },
   {
-    "de": "Müdigkeit (die)",
+    "de": "Müdigkeit",
     "tr": "yorğunluq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "mühen (sich)",
@@ -2565,14 +2718,16 @@
     "fav": false
   },
   {
-    "de": "Nachfrage (die)",
+    "de": "Nachfrage",
     "tr": "tələb, istək",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Naschen (das)",
+    "de": "Naschen",
     "tr": "dadma, dadına baxma",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "nass",
@@ -2595,14 +2750,16 @@
     "fav": false
   },
   {
-    "de": "Nervenkitzel (der)",
+    "de": "Nervenkitzel",
     "tr": "həyəcan, qorxu, adrenalin",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Neugierde (die)",
+    "de": "Neugierde",
     "tr": "maraq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "nie zuvor",
@@ -2610,9 +2767,10 @@
     "fav": false
   },
   {
-    "de": "Niveau (das)",
+    "de": "Niveau",
     "tr": "standart, səviyyə, dərəcə",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "nix",
@@ -2625,9 +2783,10 @@
     "fav": false
   },
   {
-    "de": "Ohnmacht (die)",
+    "de": "Ohnmacht",
     "tr": "bayılma, özündən getmə",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "Pendeln",
@@ -2635,9 +2794,10 @@
     "fav": false
   },
   {
-    "de": "Pflicht (die)",
+    "de": "Pflicht",
     "tr": "görəv, vəzifə, borc",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "Plagen",
@@ -2650,9 +2810,10 @@
     "fav": false
   },
   {
-    "de": "Pleite (die)",
+    "de": "Pleite",
     "tr": "iflas, tənəzzül, bankrot",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "plötzlich",
@@ -2675,9 +2836,10 @@
     "fav": false
   },
   {
-    "de": "Randgruppe (die)",
+    "de": "Randgruppe",
     "tr": "azlıq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "Rasch",
@@ -2720,9 +2882,10 @@
     "fav": false
   },
   {
-    "de": "Rettung (die)",
+    "de": "Rettung",
     "tr": "xilas, qurtuluş, yardım",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "Riechen",
@@ -2750,9 +2913,10 @@
     "fav": false
   },
   {
-    "de": "Rückgang (der)",
+    "de": "Rückgang",
     "tr": "geriləmə, azalma",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "sanft",
@@ -2760,9 +2924,10 @@
     "fav": false
   },
   {
-    "de": "Sarg (der)",
+    "de": "Sarg",
     "tr": "tabut",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "schaffen",
@@ -2780,9 +2945,10 @@
     "fav": false
   },
   {
-    "de": "Schicksal (das)",
+    "de": "Schicksal",
     "tr": "qismət, tale, bəxt",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "schief",
@@ -2820,9 +2986,10 @@
     "fav": false
   },
   {
-    "de": "Schulden (die)",
+    "de": "Schulden",
     "tr": "borclar",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "schulen",
@@ -2840,9 +3007,10 @@
     "fav": false
   },
   {
-    "de": "Sehnsucht (die)",
+    "de": "Sehnsucht",
     "tr": "həsrət",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "sein in + Dativ + tatig",
@@ -2915,9 +3083,10 @@
     "fav": false
   },
   {
-    "de": "Standbein (das)",
+    "de": "Standbein",
     "tr": "dolanışıq yeri, ən böyük dəstək, gəlir yeri",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "stattfinden",
@@ -2945,9 +3114,10 @@
     "fav": false
   },
   {
-    "de": "steuern (das)",
+    "de": "steuern",
     "tr": "idarə etmə, yönəltmə",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "stoßen",
@@ -2960,14 +3130,16 @@
     "fav": false
   },
   {
-    "de": "Streifenhörnchen (das)",
+    "de": "Streifenhörnchen",
     "tr": "sincab",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
-    "de": "Strömung (die)",
+    "de": "Strömung",
     "tr": "axın",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "ständig",
@@ -2995,9 +3167,10 @@
     "fav": false
   },
   {
-    "de": "Talent (das)",
+    "de": "Talent",
     "tr": "istedad",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "talentiert",
@@ -3035,9 +3208,10 @@
     "fav": false
   },
   {
-    "de": "Träne (die)",
+    "de": "Träne",
     "tr": "gözyaşı",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "tätig sein",
@@ -3045,14 +3219,16 @@
     "fav": false
   },
   {
-    "de": "Tätigkeit (die)",
+    "de": "Tätigkeit",
     "tr": "iş, məslək, fəaliyyət",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Ufer (das)",
+    "de": "Ufer",
     "tr": "sahil, kənar",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "umbauen",
@@ -3100,14 +3276,16 @@
     "fav": false
   },
   {
-    "de": "Unfall (der)",
+    "de": "Unfall",
     "tr": "qəza",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Ungeduld (das)",
+    "de": "Ungeduld",
     "tr": "səbirsizlik",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "ungewöhnlich",
@@ -3125,9 +3303,10 @@
     "fav": false
   },
   {
-    "de": "Unterlagen (die)",
+    "de": "Unterlagen",
     "tr": "sənədlər",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "unterstützen",
@@ -3135,9 +3314,10 @@
     "fav": false
   },
   {
-    "de": "Ursache (die)",
+    "de": "Ursache",
     "tr": "nədən, səbəb",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "variabel",
@@ -3175,9 +3355,10 @@
     "fav": false
   },
   {
-    "de": "vergnügen (das)",
+    "de": "vergnügen",
     "tr": "zövq, həzz, məmnuniyyət",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "verlagern",
@@ -3230,9 +3411,10 @@
     "fav": false
   },
   {
-    "de": "Vermunt (die)",
+    "de": "Vermunt",
     "tr": "məntiq",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
     "de": "vermuten",
@@ -3240,9 +3422,10 @@
     "fav": false
   },
   {
-    "de": "Vermögen (das)",
+    "de": "Vermögen",
     "tr": "sərvət, varlıq, mal",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "verpassen",
@@ -3375,19 +3558,22 @@
     "fav": false
   },
   {
-    "de": "Vorschlag (der)",
+    "de": "Vorschlag",
     "tr": "təklif",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
-    "de": "Vorsorge (die)",
+    "de": "Vorsorge",
     "tr": "tədbir, önləm",
-    "fav": false
+    "fav": false,
+    "gender": "die"
   },
   {
-    "de": "Vorurteil (der)",
+    "de": "Vorurteil",
     "tr": "qınaq, önyarğı",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "vorweg",
@@ -3400,9 +3586,10 @@
     "fav": false
   },
   {
-    "de": "Wechsel (der)",
+    "de": "Wechsel",
     "tr": "dəyişiklik, dəyişim",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "wegen + Gen",
@@ -3470,9 +3657,10 @@
     "fav": false
   },
   {
-    "de": "Winken (das)",
+    "de": "Winken",
     "tr": "əl sallama",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "wirken",
@@ -3500,9 +3688,10 @@
     "fav": false
   },
   {
-    "de": "Wohnheim (das)",
+    "de": "Wohnheim",
     "tr": "yataqxana, pansionat",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "womöglich",
@@ -3510,9 +3699,10 @@
     "fav": false
   },
   {
-    "de": "Wortergreifen (das)",
+    "de": "Wortergreifen",
     "tr": "söz almaq",
-    "fav": false
+    "fav": false,
+    "gender": "das"
   },
   {
     "de": "wünschenswert",
@@ -3635,9 +3825,10 @@
     "fav": false
   },
   {
-    "de": "zwerk (der)",
+    "de": "zwerk",
     "tr": "məqsəd, niyyət, hədəf",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "zwingen",
@@ -3655,9 +3846,10 @@
     "fav": false
   },
   {
-    "de": "Ärmste (der)",
+    "de": "Ärmste",
     "tr": "kasıb, zavallı, yazıq",
-    "fav": false
+    "fav": false,
+    "gender": "der"
   },
   {
     "de": "überfordert sein",
